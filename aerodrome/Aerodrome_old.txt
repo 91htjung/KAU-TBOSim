@@ -1,0 +1,26 @@
+RKSI, Incheon International Airport, 372745N, 1262621E, 7, 29.5, Large, Korea
+RKSS, Gimpo International Airport, 373325N, 1264751E, 18, 30.6, Large, Korea
+RKPC, Jeju International Airport, 333044N, 1262934E, 36, 30.2, Large, Korea
+RKPK, Gimhae International Airport, 351050N, 1285617E, 4, 29.8, Medium, Korea
+RKTN, Daegu International Airport, 355339N, 1283932E, 36, 31.0, Medium, Korea
+RKTU, Cheongju International Airport, 364259N, 1272957E, 58, 30.4, Medium, Korea
+RKJB, Muan International Airport, 345929N, 1262258E, 16, 29.9, Small, Korea
+RKNY, Yangyang International Airport, 380341N, 1284009E, 73, 27.8, Small, Korea
+RKJJ, Gwangju Airport, 350735N, 1264832E, 15, 31.8, Medium, Korea
+RKJK, Gunsan Airport, 355414N, 1263657E, 9, 29.0, Small, Korea
+RKJY, Yeosu Airport, 345032N, 1273702E, 16, 30.2, Small, Korea
+RKNW, Wonju Airport, 372617N, 1275737E, 100.6, 30.0, Small, Korea
+RKPS, Sacheon Airport, 350519N, 1280414E, 8, 31.0, Small, Korea
+RKPU, Ulsan Airport, 353536N, 1292108E, 13, 31.0, Small, Korea
+PKTH, Pohang Airport, 355916N, 1272507E, 23, 30.5, Small, Korea
+RJAA, Narita International Airport, 354555N, 1402308E, f135, 30.0, Large, Japan
+RJBB, Kansai International Airport, 342603N, 1351358E, f17.4, 31.8, Large, Japan
+RJCC, New Chitose Airport, 424631N, 1414133E, f69.8, 25.0, Large, Japan
+RJTT, Tokyo International Airport, 353312N, 1394652E, f21.0, 31.0, Large, Japan
+RJFF, Fukuoka Airport, 333504N, 1302706E, f30.0, 34.0, Large, Japan
+ROAH, Naha Airport, 261145N, 1273845E, f11.0, 32.0, Medium, Japan
+RJOO, Osaka International Airport, 344704N, 1352621E, f39, 34.0, Medium, Japan
+RJGG, Chubu Centrair International Airport, 345130N, 1364819E, f12, 31.0, Medium, Japan
+RJFK, Kagoshima Airport, 314812N, 1304310E, f892, 30, Medium, Japan
+RJFT, Kumamoto Airport, 325014N, 1305119E, f632, 33, Medium, Japan
+RJSS, Sendai Airport, 380823N, 1405501E, f5.6, 27, Medium, Japan
