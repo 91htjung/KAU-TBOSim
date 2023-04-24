@@ -1,0 +1,20 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	Y14	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	NOTAK	430531N	1430025E	false	false	100	9	10	Sapporo ACC	-	RNAV5	-
+2	BOKSO	424819N	1422755E	243	29.4	100	9	10	Sapporo ACC	-	RNAV5	-
+3	MKE	423318N	1415720E	246	27.0	100	12	10	Sapporo ACC	-	RNAV5	-
+4	HWE	414627N	1404956E	236	68.5	100	13	10	Sapporo ACC	-	RNAV5	-
+5	ARIKA	402637N	1395540E	216	89.8	100	21	10	Sapporo ACC	-	RNAV5	-
+6	NYUDO	400303N	1393951E	216	26.5	100	26	10	Tokyo ACC	-	RNAV5	-
+7	GOLDO	380357N	1382435E	215	132.7	100	26	10	Tokyo ACC	-	RNAV5	-
+8	TATAM	375550N	1380613E	249	16.6	100	26	10	Tokyo ACC	-	RNAV5	-
+9	HOTAL	365916N	1360239E	249	113.3	100	26	10	Tokyo ACC	-	RNAV5	-
+10	SAMON	361434N	1343012E	247	86.7	100	26	10	Tokyo ACC	-	RNAV5	-
+11	DRIPS	355432N	1335008E	246	38.1	100	26	10	Tokyo ACC	-	RNAV5	-
+12	MIHOU	353152N	1330538E	246	42.7	100	26	10	Fukuoka ACC	-	RNAV5	-
+13	HALNA	343202N	1313211E	240	97.2	100	24	10	Fukuoka ACC	-	RNAV5	-
+14	STOUT	341127N	1310058E	239	33.0	100	12	10	Fukuoka ACC	-	RNAV5	-
+15	DGC	334034N	1302323E	232	43.9	100	12	10	Fukuoka ACC	-	RNAV5	-

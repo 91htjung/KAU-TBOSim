@@ -1,0 +1,21 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	Y10	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	LUMIN	454500N	1415018E	false	false	100	20	10	Sapporo ACC	-	RNAV5	-
+2	WKE	452426N	1414820E	194	20.6	100	20	10	Sapporo ACC	-	RNAV5	-
+3	YOROI	450031N	1414708E	192	24.0	100	20	10	Sapporo ACC	-	RNAV5	-
+4	RUMOI	434158N	1414345E	192	78.6	100	9	10	Sapporo ACC	-	RNAV5	-
+5	CHE	424200N	1414110E	192	60.0	100	15	10	Sapporo ACC	-	RNAV5	-
+6	TOBBY	415507N	1414536E	185	47.0	100	15	10	Sapporo ACC	-	RNAV5	-
+7	LARCH	413011N	1414755E	185	25.0	100	16	10	Sapporo ACC	-	RNAV5	-
+8	PANSY	400014N	1411912E	202	92.6	100	24	10	Sapporo ACC	-	RNAV5	-
+9	HPE	392600N	1410801E	202	35.3	100	26	10	Tokyo ACC	-	RNAV5	-
+10	ZAHAN	383333N	1405220E	201	53.9	100	26	10	Tokyo ACC	-	RNAV5	-
+11	RUBIS	374451N	1403808E	201	50.0	100	26	10	Tokyo ACC	-	RNAV5	-
+12	ASHRA	371516N	1402939E	201	30.4	100	20	10	Tokyo ACC	-	RNAV5	-
+13	LANAI	370532N	1402653E	201	10.0	100	20	10	Tokyo ACC	-	RNAV5	-
+14	GENJI	365538N	1402405E	200	10.2	100	15	10	Tokyo ACC	-	RNAV5	-
+15	DAIGO	364440N	1402059E	200	11.2	100	15	10	Tokyo ACC	-	RNAV5	-
+16	STONE	361647N	1401524E	196	28.3	100	8	10	Tokyo ACC	-	RNAV5	-

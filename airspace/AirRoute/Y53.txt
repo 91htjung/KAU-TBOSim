@@ -1,0 +1,14 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	Y53	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	BECKY	335509N	1343031E	false	false	100	9	10	Fukuoka ACC	-	RNAV5	-
+2	KARIN	334024N	1341115E	053	21.8	100	9	10	Fukuoka ACC	-	RNAV5	-
+3	BRAVE	332655N	1335333E	054	20.0	100	9	10	Fukuoka ACC	-	RNAV5	-
+4	STORK	325648N	1331435E	054	44.4	100	9	10	Fukuoka ACC	-	RNAV5	-
+5	SUC	324521N	1325948E	054	16.9	100	9	10	Fukuoka ACC	-	RNAV5	-
+6	MADOG	320731N	1322346E	046	48.6	100	15	10	Fukuoka ACC	-	RNAV5	-
+7	VEGAR	300027N	1304445E	039	152.9	100	27	10	Fukuoka ACC	-	RNAV5	-
+8	RURIK	291759N	1301252E	039	50.7	100	11	10	Naha ACC	-	RNAV5	-
+9	AMAMI	282637N	1293503E	038	61.2	100	25	10	Naha ACC	-	RNAV5	-

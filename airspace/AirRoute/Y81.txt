@@ -1,0 +1,18 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	Y81	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	BINKS	351116N	1404357E	false	false	100	6	10	Tokyo ACC	-	RNAV5	-
+2	ANGEL	345431N	1404158E	012	16.7	100	6	10	Tokyo ACC	-	RNAV5	-
+3	SYOYU	344349N	1404034E	013	10.8	100	6	10	Tokyo ACC	-	RNAV5	-
+4	CHEVY	343928N	1403203E	245	8.3	100	13	10	Tokyo ACC	-	RNAV5	-
+5	BAFFY	342203N	1395820E	245	32.8	100	13	10	Tokyo ACC	-	RNAV5	-
+6	BUNGU	340709N	1392954E	244	27.9	100	13	10	Tokyo ACC	-	RNAV5	-
+7	BANJO	335013N	1375135E	265	83.3	100	21	10	Tokyo ACC	-	RNAV5	-
+8	ISEBI	334203N	1370650E	265	38.1	100	21	10	Tokyo ACC	-	RNAV5	-
+9	SDATI	333001N	1345825E	090	107.7	100	21	10	Tokyo ACC	-	RNAV5	-
+10	SAWAT	331723N	1330341E	089	96.7	100	25	10	Fukuoka ACC	-	RNAV5	-
+11	AILEY	331404N	1323607E	089	23.3	100	25	10	Fukuoka ACC	-	RNAV5	-
+12	SABAR	331033N	1320749E	088	23.9	100	25	10	Fukuoka ACC	-	RNAV5	-
+13	KASTE	325036N	1294122E	087	124.5	100	25	10	Fukuoka ACC	-	RNAV5	-

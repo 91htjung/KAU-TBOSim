@@ -1,0 +1,18 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	Y57	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	BUNGU	340709N	1392954E	false	false	100	25	10	Tokyo ACC	-	RNAV5	-
+2	MISAK	330513N	1372514E	065	121.0	100	25	10	Tokyo ACC	-	RNAV5	-
+3	JERID	322747N	1361310E	064	71.3	100	25	10	Tokyo ACC	-	RNAV5	-
+4	NIKAI	315230N	1351858E	058	57.9	100	25	10	Tokyo ACC	-	RNAV5	-
+5	YULIA	314301N	1350435E	058	15.5	100	29	10	Tokyo ACC	-	RNAV5	-
+6	SHIBK	293914N	1320450E	056	198.1	100	29	10	Fukuoka ACC	-	RNAV5	-
+7	TAMAK	273153N	1290553E	055	202.4	100	29	10	Naha ACC	-	RNAV5	-
+8	AZAMA	260939N	1274803E	044	107.7	100	25	10	Naha ACC	-	RNAV5	-
+9	CRUXS	254848N	1270923E	063	40.6	100	8	10	Naha ACC	-	RNAV5	-
+10	GEMNI	254109N	1265519E	063	14.8	100	8	10	Naha ACC	-	RNAV5	-
+11	FREED	252840N	1263233E	064	24.0	100	8	10	Naha ACC	-	RNAV5	-
+12	IKEMA	244710N	1251804E	063	79.2	100	8	10	Naha ACC	-	RNAV5	-
+13	IGURU	235700N	1240000E	058	87.0	100	27	10	Naha ACC	-	RNAV5	-
