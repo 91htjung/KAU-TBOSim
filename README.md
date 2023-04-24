@@ -1,10 +1,12 @@
 # KAU-TBOSim
 Trajectory Based Operation(TBO) ATM Simulation - MATLAB
 
+https://www.youtube.com/watch?v=DWWiYv75qdM&ab_channel=HyuntaeJung
+
 Last Updated: Dec. 29th, 2017
 Korea Aerospace University, Air Transportation Modeling and Control Library
 
-Hyuntae Jung
+Hyuntae Jung, 
 Prof. Keumjin Lee
 
 Run simulation.m using MATLAB
