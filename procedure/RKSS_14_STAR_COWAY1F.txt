@@ -1,0 +1,13 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	COWAY 1F	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 본 절차는 시험용 절차로 대한민국 AIP STAR/SID/INSTAPP에 나온 표 순서로 구성되었습니다.                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	REBIT	false	false	false	false	false	false	371203.0N	1252912.7E	false	RNAV1	Hold	true
+2	TF	COWAY	false	103.9	15.5	false	+18	false	370817.9N	1254804.6E	false	RNAV1	REBIT1F Transition	true
+3	TF	PINGO	false	089.1	12.3	false	+16	false	370828.1N	1260325.2E	false	RNAV1	-	true
+4	TF	SI901	false	080.0	13.4	false	+12	false	371046.2N	1261955.9E	false	RNAV1	-	true
+5	TF	SS802	false	044.4	7.7	false	+9	false	371618.1N	1262642.2E	false	RNAV1	-	true
+6	TF	SS803	false	043.8	6.7	false	+8	false	372114.9N	1263226.8E	false	RNAV1	-	true
+7	TF	SS804	false	043.7	11.0	false	+7	false	372912.0N	1264200.0E	false	RNAV1	-	true
+8	TF	DOKDO	false	315.1	10.0	false	+4	false	373617.1N	1263307.1E	false	RNAV1	IAF	true

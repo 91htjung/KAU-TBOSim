@@ -1,0 +1,13 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	VOR RWY32L	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	HOKAN	false	false	false	false	+7	false	371655.9N	1270758.4E	false	VOR/DME	IAF	true
+2	TF	D20KIP	false	315.2	false	false	false	false	371900.4N	1270454.7E	false	VOR/DME	SDF	true
+3	TF	D18KIP	false	315.2	false	false	+5.5	false	372027.2N	1270310.7E	false	VOR/DME	SDF	true
+4	TF	D13_2KIP	false	315.2	false	false	+4	false	372355.4N	1265900.7E	false	VOR/DME	IF	true
+5	TF	D9_6KIP	false	315.2	false	false	+2.9	false	372631.4N	1265552.9E	false	VOR/DME	SDF	true
+6	TF	D6_6KIP	false	315.2	false	false	+2.0	false	372841.4N	1265316.3E	-2.98	VOR/DME	FAF	true
+7	TF	D3_0KIP	false	315.2	false	false	+0.86	false	373117.3N	1265008.2E	-3.16	VOR/DME	SDF	true
+8	TF	D1_3KIP	false	315.2	false	false	+0.74	false	373230.8N	1264839.2E	-3.16	VOR/DME	MAPt	true
+9	TF	RKSS_RWY32L_THR	true	false	false	false	false	false	373252.83N	1264803.71E	-3.16	VOR/DME	RWYTHR	true

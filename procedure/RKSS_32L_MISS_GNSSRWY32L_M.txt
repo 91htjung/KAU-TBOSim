@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GNSS RWY32L (Missed App)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	RKSS_RWY32L_THR	true	315.1	false	+0.74	false	false	373252.8N	1264803.7E	false	RNPAPCH	MAPt	true
+2	TF	SS375	false	315.9	7.3	false	false	false	373807.5N	1264139.6E	false	RNPAPCH	-	true
+3	TF	CHAMP	true	226.5	8.8	false	+4	false	373202.2N	1263337.0E	false	RNPAPCH	MAHF	true
+4	HM	CHAMP	true	292.2	false	R	4~6	false	373202.2N	1263337.0E	false	RNPAPCH	leg5,min1	true

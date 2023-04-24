@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	OSPOT 1R	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	CF	SS701	false	false	false	R	false	false	373001.9N	1265158.7E	false	RNAV1	-	true
+2	TF	SEOGA	false	162.3	8.1	false	-6	false	372216.6N	1265504.6E	false	RNAV1	-	true
+3	TF	JUSAN	false	145.5	10.0	false	-8	false	371403.3N	1270208.6E	false	RNAV1	-	true
+4	TF	SS730	false	147.5	9.1	false	+10	false	370624.1N	1270813.9E	false	RNAV1	-	true
+5	TF	GANJI	false	147.8	10.2	false	+13	false	365745.7N	1271501.2E	false	RNAV1	-	true
+6	TF	OSPOT	false	147.6	8.8	false	@15	false	365018.1N	1272054.9E	false	RNAV1	-	true

@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	BULTI 1M	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	CF	SS701	false	false	false	R	false	false	373001.9N	1265158.7E	false	RNAV1	-	true
+2	TF	SEOGA	false	162.3	8.1	false	+4	false	372216.6N	1265504.6E	false	RNAV1	-	true
+3	TF	SIKSA	false	251.8	9.4	false	+7	false	371920.3N	1264355.4E	false	RNAV1	-	true
+4	TF	GAMJU	false	202.2	10.6	false	-11	false	370933.1N	1263855.8E	false	RNAV1	-	true
+5	TF	SS724	false	165.3	8.8	false	+13	false	370103.4N	1264143.1E	false	RNAV1	-	true
+6	TF	JANDY	false	165.7	7.1	false	+15	false	365408.6N	1264359.3E	false	RNAV1	-	true
+7	TF	BULTI	false	157.1	11.7	false	+19	false	364322.3N	1264929.7E	false	RNAV1	-	true

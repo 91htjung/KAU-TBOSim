@@ -1,0 +1,9 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GNSS RWY14L (Missed App)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	RKSS_RWY14L_THR	true	144.6	false	+0.51	false	false	373414.6N	1264641.8E	false	RNPAPCH	MAPt	true
+2	TF	SS395	false	135.9	6.0	false	false	false	372954.5N	1265157.6E	false	RNPAPCH	-	true
+3	TF	SS396	false	223.9	6.6	false	false	-220	372509.3N	1264613.6E	false	RNPAPCH	-	true
+4	TF	DOKDO	true	316.9	15.2	false	+4	-220	373617.1N	1263307.1E	false	RNPAPCH	MAHF	true
+5	HM	DOKDO	true	314.9	false	R	4~5	-220	373617.1N	1263307.1E	false	RNPAPCH	leg5,min1	true

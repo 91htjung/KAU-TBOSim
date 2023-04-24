@@ -1,0 +1,12 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	WIKEN 2S	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 본 절차는 시험용 절차로 대한민국 AIP STAR/SID/INSTAPP에 나온 표 순서로 구성되었습니다.                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	GONAV	false	false	false	false	false	false	371048.4N	1242452.6E	false	RNAV1	-	true
+2	TF	WIKEN	false	110.3	21.3	false	+15	false	370321.0N	1244951.1E	false	RNAV1	GONAV Transition	true
+3	TF	KUREE	false	088.5	46.4	false	+15	false	370417.6N	1254750.3E	false	RNAV1	-	true
+4	TF	SS813	false	089.1	21.7	false	+11	false	370434.8N	1261454.2E	false	RNAV1	-	true
+5	TF	SS805	false	068.8	11.3	false	+10	false	370840.3N	1262806.7E	false	RNAV1	-	true
+6	TF	SS806	false	064.8	12.6	false	+9	false	371400.7N	1264219.8E	false	RNAV1	-	true
+7	TF	HANWU	false	064.9	7.1	false	+7	false	371700.6N	1265021.9E	false	RNAV1	IAF	true

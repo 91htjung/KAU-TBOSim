@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	ILS/LOC Z RWY14L	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	DOKDO	false	false	false	false	+4	false	373617.1N	1263307.1E	false	RNAV1	IAF	true
+2	TF	AIZAK	false	044.9	5.0	false	+2.8	false	374040.0N	1263836.6E	false	RNAV1	IF	true
+3	TF	BABON	false	134.9	2.6	false	+1.4	false	373707.1N	1264304.8E	false	RNAV1	FAF	true
+5	TF	D2_0ISEL	false	134.9	false	false	+0.67	false	373532.2N	1264504.3E	-3.0	RNAV1	SDF	true
+6	TF	D0_8ISEL	false	134.9	false	false	+0.43	false	373441.1N	1264608.4E	-3.0	RNAV1	MAPt	true
+7	TF	RKSS_RWY14L_THR	true	134.9	false	false	false	false	373414.55N	1264641.80E	false	RNAV1	RWYTHR	true

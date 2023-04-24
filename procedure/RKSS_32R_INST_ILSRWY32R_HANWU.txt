@@ -1,0 +1,12 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	ILS/LOC RWY32R	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	HANWU	false	false	false	false	+7	false	371700.6N	1265021.9E	false	RNAV1	IAF	true
+2	TF	COUBY	false	045.6	5.0	false	+5.5	false	372030.7N	1265450.7E	false	RNAV1	SDF	true
+3	TF	MOBAK	false	045.6	5.1	false	+4	false	372404.7N	1265925.2E	false	RNAV1	IF	true
+4	TF	SS365	false	315.1	3.6	false	+2.8	false	372639.3N	1265612.2E	false	RNAV1	SDF	true
+5	TF	SS367	false	315.1	1.6	false	+2.3	false	372747.4N	1265447.0E	false	RNAV1	SDF	true
+6	TF	KENJA	false	315.1	1.3	false	+2.0	false	372842.2N	1265338.9E	false	RNAV1	FAF	true
+7	TF	D1_0ISKP	false	315.1	false	false	+0.6	false	373216.7N	1264909.7E	-3.0	RNAV1	MAPt	true
+8	TF	RKSS_RWY32R_THR	true	false	false	false	false	false	373251.89N	1264825.58E	false	RNAV1	RWYTHR	true

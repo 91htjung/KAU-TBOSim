@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	KARBU 1D	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 본 절차는 시험용 절차로 대한민국 AIP STAR/SID/INSTAPP에 나온 표 순서로 구성되었습니다.                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	KARBU	false	false	false	false	false	false	373159.0N	1273952.0E	false	RNAV1	-	true
+2	TF	EGOBA	false	258.7	13.9	false	+16	false	372914.7N	1272245.9E	false	RNAV1	Hold	true
+5	TF	SEL	false	258.5	22.0	false	+10	false	372449.0N	1265542.1E	false	RNAV1	-	true
+6	TF	SS808	false	291.9	5.0	false	+9	false	372641.1N	1264952.6E	false	RNAV1	-	true
+7	TF	SS804	false	291.9	6.8	false	+7	false	372912.0N	1264200.0E	false	RNAV1	-	true
+8	TF	DOKDO	false	315.1	10.0	false	+4	false	373617.1N	1263307.1E	false	RNAV1	IAF	true
