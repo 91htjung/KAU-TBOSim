@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC E135__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: E135__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Oct 03 2008                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Mar 23 2011                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 013.60 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 022.50                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    135BJ            LO  240 290 65          250 300 75  78 310 240            0   0   0  E135__ /
+CD    135BJ            AV  240 290 65          250 300 75  78 310 240            0   0   0  E135__ /
+CD    135BJ            HI  240 290 65          250 300 75  78 310 240            0   0   0  E135__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

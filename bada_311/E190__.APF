@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC E190__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: E190__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Jan 29 2009                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Apr 02 2012                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 028.18 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 051.80                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    190 IGW          LO  250 290 75          250 290 75  77 290 250            0   0   0  E190__ /
+CD    190 IGW          AV  250 290 75          250 290 75  77 290 250            0   0   0  E190__ /
+CD    190 IGW          HI  250 290 75          250 290 75  77 290 250            0   0   0  E190__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////
