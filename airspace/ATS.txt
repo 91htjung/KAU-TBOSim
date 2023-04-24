@@ -1,0 +1,14 @@
+TMA, SeoulTMA, Korea, RKRR, Seoul TMA, Seoul APP
+TMA, OsanTMA, Korea, RKRR, Osan TMA, Osan APP
+TMA, JungwonTMA, Korea, RKRR, Jungwon TMA, Jungwon APP
+TMA, JejuTMA, Korea, RKRR, Jeju TMA, Jeju APP
+TMA, GangneungTMA, Korea, RKRR, Gangneung TMA, Gangneung APP
+TMA, GimhaeTMA, Korea, RKRR, Gimhae TMA, Gimhae APP
+TMA, GunsanTMA, Korea, RKRR, Gunsan TMA, Gunsan APP
+TMA, GwangjuTMA, Korea, RKRR, Gwangju TMA, Gwangju APP
+TMA, SacheonTMA, Korea, RKRR, Sacheon TMA, Sacheon APP
+TMA, PohangTMA, Korea, RKRR, Pohang TMA, Pohang APP
+TMA, DaeguTMA, Korea, RKRR, Daegu TMA, Daegu APP
+TMA, YecheonTMA, Korea, RKRR, Yechoen TMA, Techeon APP
+TMA, HaemiTMA, Korea, RKRR, Haemi TMA, Haemi APP
+TMA, WonjuTMA, Korea, RKRR, Wonju TMA, Wonju APP

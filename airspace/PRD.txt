@@ -1,0 +1,5 @@
+Prohibited, RKRR, P73A, 0, 100000
+Prohibited, RKRR, P73B, 0, 100000
+Prohibited, RKRR, P518W, 0, 100000
+Prohibited, RKRR, P518, 0, 100000
+Prohibited, RKRR, P518E, 0, 100000
