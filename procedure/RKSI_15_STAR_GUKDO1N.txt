@@ -1,0 +1,19 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GUKDO 1N	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 본 절차는 시험용 절차로 대한민국 AIP STAR/SID/INSTAPP에 나온 표 순서로 구성되었습니다.                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	GUKDO	false	false	false	false	false	false	370110.9N	1273822.6E	false	RNAV1	-	true
+2	TF	KAKSO	false	304.9	11.5	false	+18	false	370744.6N	1272637.4E	false	RNAV1	Hold	true
+3	TF	KALMA	false	304.8	19.3	false	false	false	371844.9N	1270644.8E	false	RNAV1	-	true
+4	TF	HODOL	false	304.6	4.8	false	false	false	372127.2N	1270149.9E	false	RNAV1	-	true
+5	TF	SEL	false	304.5	5.9	false	+15	false	372449.0N	1265542.1E	false	RNAV1	-	true
+6	TF	SI853	false	254.1	16.5	false	+11	false	372015.1N	1263548.3E	false	RNAV1	-	true
+7	TF	SI941	false	253.9	10.1	false	+8	@210	371727.0N	1262340.4E	false	RNAV1	-	true
+8	TF	SI942	false	244.9	5.5	false	+8	@210	371507.7N	1261729.1E	false	RNAV1	-	true
+9	TF	SI943	false	261.9	5.0	false	false	@210	371425.0N	1261117.2E	false	RNAV1	-	false
+10	TF	SI944	false	276.0	4.0	false	false	@210	371449.9N	1260618.3E	false	RNAV1	-	false
+11	TF	SI945	false	288.7	4.0	false	false	@210	371606.8N	1260133.5E	false	RNAV1	-	false
+12	TF	SI946	false	303.0	5.0	flase	false	@210	371850.2N	1255618.1E	false	RNAV1	-	false
+13	TF	SI947	false	319.8	5.6	false	@8	@210	372306.0N	1255147.5E	false	RNAV1	-	false
+14	TF	DANAN	false	058.6	18.0	false	+5	@210	373226.0N	1261104.0E	false	RNAV1	IAF	false

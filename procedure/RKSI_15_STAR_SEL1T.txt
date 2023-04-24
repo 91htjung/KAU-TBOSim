@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	SEL 1T		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 본 절차는 시험용 절차로 대한민국 AIP STAR/SID/INSTAPP에 나온 표 순서로 구성되었습니다.                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	SEL	false	false	false	false	+15	false	372449.0N	1265542.1E	false	RNAV1	-	true
+2	TF	POLKA	false	312.3	5.0	false	+12	false	372809.8N	1265104.8E	false	RNAV1	-	true
+3	TF	DANZO	false	312.2	7.1	false	+10	false	373255.8N	1264428.8E	false	RNAV1	-	true
+4	TF	MAKIN	false	312.2	9.7	false	+6	false	373924.5N	1263528.2E	false	RNAV1	-	true
+5	TF	DALCO	false	290.9	5.5	false	5~6	-210	374122.0N	1262859.8E	false	RNAV1	-	true
+6	TF	TIMON	false	260.8	3.5	false	+4	-210	374048.0N	1262436.1E	false	RNAV1	IAF	true

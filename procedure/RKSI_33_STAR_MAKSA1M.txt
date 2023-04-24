@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	MAKSA 1M	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CDO, 1400-1900 UTC                                                      									%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	MAKSA	false	false	false	false	false	false	353011.3N	1265422.0E	false	RNAV1	-	true
+2	TF	ATASO	false	005.1	23.6	false	+22	false	355343.6N	1265657.0E	false	RNAV1	-	true
+3	TF	PEBRI	false	005.1	29.5	false	+18	false	362310.8N	1270013.3E	false	RNAV1	-	true
+4	TF	OLMEN	false	358.3	21.0	false	+15	false	364413.4N	1265927.6E	false	RNAV1	-	true
+5	TF	SI363	false	333.2	20.4	false	+9.5	false	370227.1N	1264757.6E	false	RNAV1	-	true
+6	TF	PULUN	false	333.1	8.9	false	+7	false	371022.2N	1264255.7E	false	RNAV1	IAF	true

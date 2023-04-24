@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	ILS/LOC Z RWY15R	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	TIMON	false	false	false	false	+4	false	374048.0N	1262436.1E	false	RNAV1	IAF	true
+2	TF	KARRA	false	260.7	5.0	false	+2.6	-180	373959.6N	1261823.2E	false	RNAV1	SDF	true
+3	TF	MASIA	false	174.6	2.7	false	+2.6	false	373716.9N	1261842.6E	false	RNAV1	IF	true
+4	TF	BOMPI	false	144.6	2.5	false	+2.6	false	373514.6N	1262031.9E	false	RNAV1	FAF	true
+5	TF	D3ISRR	false	144.6	false	false	+0.98	false	373113.4N	1262407.1E	-3.0	RNAV1	SDF	true
+6	TF	D1ISRR	false	144.6	false	false	false	false	372935.3N	1262534.4E	-3.0	RNAV1	MAPt	true
+7	TF	RKSI_RWY15R_THR	true	144.6	false	false	false	false	372854.44N	1262610.82E	false	RNAV1	RWYTHR	true

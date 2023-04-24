@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	ILS/LOC RWY16	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	DANAN	false	false	false	false	+5	false	373226.0N	1261104.0E	false	RNAV1	IAF	true
+2	TF	TANDE	false	053.9	6.6	false	+2.6	false	373621.0N	1261748.8E	false	RNAV1	IF	true
+3	TF	VOFHA	false	144.6	5.1	false	+1.6	false	373212.9N	1262130.4E	false	RNAV1	FAF	true
+4	TF	D3_0IRKS	false	144.6	false	false	+0.99	false	373040.7N	1262252.6E	-3.0	RNAV1	SDF	true
+5	TF	D1_1IRKS	false	144.6	false	false	+0.38	false	372907.6N	1262415.5E	-3.0	RNAV1	MAPt	true
+6	TF	RKSI_RWY16_THR	true	144.6	false	false	false	false	372822.11N	1262456.05E	false	RNAV1	RWYTHR	true

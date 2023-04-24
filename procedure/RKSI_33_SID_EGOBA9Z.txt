@@ -1,0 +1,12 @@
+% RKSI % RWY 33 % SID  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%	EGOBA 9Z	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Night time(1300-2000 UTC), 34 Closed                                                               %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	CF	SI761	false	314.1	2.9	L	false	-250	373056.1N	1262333.3E	false	RNAV1	BA20	true
+2	TF	SI762	false	269.6	6.7	false	+3	false	373054.2N	1261507.3E	false	RNAV1	-	true
+3	TF	SOSIK	false	179.5	11.3	false	+8	false	371935.0N	1261514.0E	false	RNAV1	-	true
+4	TF	SI741	false	090.6	9.8	false	+12	false	371928.6N	1262731.1E	false	RNAV1	-	true
+5	TF	SI742	false	090.7	12.1	false	+15	false	371918.2N	1264238.8E	false	RNAV1	-	true
+6	TF	SI743	false	090.8	14.3	false	false	false	371905.3N	1270031.4E	false	RNAV1	-	true
+7	TF	EGOBA	false	060.1	20.4	false	false	false	372914.7N	1272245.9E	false	RNAV1	-	true

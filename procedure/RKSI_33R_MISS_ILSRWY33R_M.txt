@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	ILS/LOC RWY33R (Missed App)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	D3_0INRR	false	324.8	false	false	false	false	372643.0N	1262828.4E	false	RNAV1	MAPt	true
+2	TF	D6NCN	false	false	false	false	false	-210	373550.0N	1262357.5E	false	RNAV1	-	true
+3	TF	RONJI	true	false	false	false	@4	false	372747.0N	1261329.0E	false	RNAV1	MAHF	true
+4	HM	RONJI	true	078.9	false	L	3~4	false	372747.0N	1261329.0E	false	RNAV1	leg5,min1	true

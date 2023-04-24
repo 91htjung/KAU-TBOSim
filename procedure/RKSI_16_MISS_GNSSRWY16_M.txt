@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	ILS/LOC RWY16 (Missed App)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	RKSI_RWY16_THR	true	144.6	false	+0.46	false	false	372822.11N	1262456.05E	false	RNPAPCH	MAPt	true
+2	TF	SI516	false	159.6	11.5	false	false	-240	371734.0N	1262957.5E	false	RNPAPCH	-	true
+3	TF	LAFAM	true	279.7	8.1	false	@3	-240	371855.0N	1261959.0E	false	RNPAPCH	MAHF	true
+4	HM	LAFAM	true	038.4	false	R	3~4	false	371855.0N	1261959.0E	false	RNPAPCH	leg5,min1	true

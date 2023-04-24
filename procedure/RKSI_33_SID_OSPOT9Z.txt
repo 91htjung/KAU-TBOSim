@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	OSPOT 9Z	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Night time(1300-2000 UTC), 34 Closed                       							                                 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	CF	SI761	false	314.1	2.9	L	false	-250	373056.1N	1262333.3E	false	RNAV1	BA20	true
+2	TF	SI762	false	269.6	6.7	false	+3	false	373054.2N	1261507.3E	false	RNAV1	false	true
+3	TF	SOSIK	false	179.5	11.3	false	+8	false	371935.0N	1261514.0E	false	RNAV1	false	true
+4	TF	IROMA	false	131.2	12.0	false	+11	false	371139.7N	1262632.1E	false	RNAV1	false	true
+5	TF	SI732	false	115.8	10.0	false	+15	false	370718.5N	1263744.9E	false	RNAV1	false	true
+6	TF	OSPOT	false	115.9	38.5	false	false	false	365018.1N	1272054.9E	false	RNAV1	false	true

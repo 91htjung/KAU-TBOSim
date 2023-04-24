@@ -1,0 +1,9 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GNSS RWY33R (Missed App)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	RKSI_RWY33R_THR	true	324.7	false	+0.48	false	false	372723.0N	1262752.8E	false	RNPAPCH	MAPt	true
+2	TF	SI576	false	339.7	9.0	false	false	false	373550.0N	1262357.5E	false	RNPAPCH	-	true
+3	TF	SI577	false	249.7	7.0	false	false	false	373323.8N	1261542.3E	false	RNPAPCH	-	true
+4	TF	RONJI	true	197.5	5.9	false	@4	false	372747.0N	1261329.0E	false	RNPAPCH	MAHF	true
+5	HM	RONJI	true	078.9	false	L	3~4	false	372747.0N	1261329.0E	false	RNPAPCH	leg5,min1	true

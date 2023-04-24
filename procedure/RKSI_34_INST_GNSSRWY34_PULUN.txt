@@ -1,0 +1,9 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GNSS RWY34	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PULUN(IAF) 및 KOTRA(IAF)에서 출발할 수 있음 -> IF가 2개
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	PULUN	false	false	false	false	+7	false	371022.2N	1264255.7E	false	RNPAPCH	IAF	true
+2	TF	MENTO	false	false	false	false	+3.2	false	371839.4N	1263333.4E	false	RNPAPCH	IF	true
+3	TF	HOKEY	false	324.7	5.0	false	@1.6	false	372245.3N	1262955.4E	false	RNPAPCH	FAF	true
+4	TF	RKSI_RWY34_THR	true	324.7	4.7	false	@0.05	false	372636.3N	1262630.2E	-3.01	RNPAPCH	MAPt	true

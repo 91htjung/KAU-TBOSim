@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	VOR RWY33R (Missed App)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	D3_5NCN	true	false	false	false	false	false	372649.6N	1262821.5E	false	VOR/DME	MAPt	true
+2	TF	D6NCN	true	false	false	false	false	false	373519.7N	1262312.9E	false	VOR/DME	-	true
+3	TF	RONJI	true	false	false	false	@4	false	372747.0N	1261329.0E	false	VOR/DME	MAHF	true
+4	HM	RONJI	true	078.9	false	L	4~5	false	372747.0N	1261329.0E	false	VOR/DME	leg5,min1	true

@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	ILS/LOC Y RWY15L	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	DANAN	false	false	false	false	+5	false	373226.0N	1261104.0E	false	RNAV1	IAF	true
+2	TF	SCOTT	false	118.3	8.0	false	+2.9	-180	373701.6N	1261917.0E	false	RNAV1	IF	true
+3	TF	DULAK	false	058.4	5.1	R	+1.8	false	373253.5N	1262258.5E	false	RNAV1	FAF	true
+4	TF	D5ISLL	false	058.4	false	false	+0.91	false	373120.2N	1262421.7E	false	RNAV1	SDF	true
+5	TF	D3ISLL	false	058.4	false	false	false	false	372942.2N	1262548.9E	false	RNAV1	MAPt	true
+6	TF	RKSI_RWY15L_THR	true	058.4	false	false	false	false	372902.20N	1262624.56E	false	RNAV1	RWYTHR	true

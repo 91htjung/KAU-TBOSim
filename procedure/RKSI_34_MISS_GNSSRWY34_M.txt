@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GNSS RWY34 (Missed App)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	RKSI_RWY34_THR	true	324.7	false	+0.38	false	false	372636.3N	1262630.2E	false	RNPAPCH	MAPt	true
+2	TF	SI556	false	309.7	6.0	false	false	-220	373024.6N	1262044.8E	false	RNPAPCH	-	true
+3	TF	KUDRY	true	203.0	13.5	false	@3	-220	371758.7N	1261409.0E	false	RNAV1	MAHF	true
+4	HM	KUDRY	true	232.0	false	L	3~4	false	371758.7N	1261409.0E	false	RNAV1	leg5,min1	true

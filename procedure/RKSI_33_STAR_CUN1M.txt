@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	CUN 1M		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CDO, 1400-1900 UTC                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	CUN	false	false	false	false	false	false	363755.3N	1281931.5E	false	RNAV1	-	true
+2	TF	BIGOB	false	305.3	9.5	false	+22	false	364325.4N	1280952.0E	false	RNAV1	-	true
+3	TF	BASEM	false	305.2	12.5	false	+20	false	365037.2N	1275709.9E	false	RNAV1	-	true
+4	TF	GUKDO	false	305.1	18.4	false	+16	false	370110.9N	1273822.9E	false	RNAV1	-	true
+5	TF	SI362	false	292.0	25.1	false	+10	false	370619.6N	1270740.9E	false	RNAV1	-	true
+6	TF	PULUN	false	281.7	20.2	false	+7	false	371022.2N	1264255.7E	false	RNAV1	IAF	true

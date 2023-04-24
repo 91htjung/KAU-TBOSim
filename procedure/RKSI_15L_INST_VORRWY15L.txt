@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	VOR RWY15L	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	COPUS	false	false	false	false	+6	false	371821.0N	1261322.1E	false	VOR/DME	IAF,Hold	true
+2	TF	D10NCN	false	false	false	false	+3.2	false	373752.4N	1261833.7E	false	VOR/DME	IF	true
+3	TF	D4_3NCN	false	144.6	false	false	+1.7	false	373312.4N	1262242.4E	false	VOR/DME	FAF	true
+4	TF	D1_5NCN	false	144.6	false	false	+0.81	false	373055.0N	1262444.2E	-3.0	VOR/DME	SDF	true
+5	TF	D0_4NCN	false	144.6	false	false	+0.46	false	373001.0N	1262532.1E	-3.0	VOR/DME	MAPt	true
+6	TF	RKSI_RWY15L_THR	true	144.6	false	false	false	false	372902.2N	1262624.6E	-3.0	VOR/DME	RWYTHR	true

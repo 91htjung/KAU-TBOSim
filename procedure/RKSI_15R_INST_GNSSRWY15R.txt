@@ -1,0 +1,9 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GNSS RWY15R	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	DANAN	false	false	false	false	+5	false	373226.0N	1261104.0E	false	RNPAPCH	IAF	true
+2	TF	FASAP	false	054.9	7.8	false	+2.6	false	373653.8N	1261903.3E	false	RNPAPCH	IF	true
+3	TF	HANQU	false	144.6	5.1	false	@1.6	false	373245.7N	1262244.8E	false	RNPAPCH	FAF	true
+4	TF	SI522	false	144.6	2.7	false	+0.7	false	373032.4N	1262443.6E	false	RNPAPCH	SDF	true
+5	TF	RKSI_RWY15R_THR	true	144.6	2.0	false	@0.05	false	372854.4N	1262610.8E	-3.01	RNPAPCH	MAPt	true

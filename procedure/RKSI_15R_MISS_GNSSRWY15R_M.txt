@@ -1,0 +1,9 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GNSS RWY15R (Missed App)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	RKSI_RWY15R_THR	true	144.6	false	+0.47	false	false	372854.4N	1262610.8E	false	RNPAPCH	MAPt	true
+2	TF	SI526	false	129.6	11.7	false	false	false	372125.5N	1263729.3E	false	RNPAPCH	-	true
+3	TF	SI537	false	219.8	12.1	false	false	false	371203.9N	1262745.9E	false	RNPAPCH	-	true
+4	TF	KESAN	true	309.6	9.1	false	@4	false	371753.0N	1261858.0E	false	RNPAPCH	MAHF	true
+5	HM	KESAN	true	025.0	false	R	4~5	false	371753.0N	1261858.0E	false	RNPAPCH	leg5,min1	true

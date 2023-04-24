@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	BOPTA 1S	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 본 절차는 시험용 절차로 대한민국 AIP STAR/SID/INSTAPP에 나온 표 순서로 구성되었습니다.                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	CF	SI701	false	146.7	4.0	R	false	false	372315.5N	1262915.7E	false	RNAV1	false	true
+2	TF	SI702	false	166.4	6.7	false	+3	false	371647.0N	1263113.0E	false	RNAV1	false	true
+3	TF	BONSA	false	161.8	15.8	false	-13	false	370144.4N	1263723.0E	false	RNAV1	false	true
+4	TF	SI721	false	179.5	8.6	false	+14	false	365308.6N	1263729.0E	false	RNAV1	false	true
+5	TF	BOPTA	false	182.6	9.0	false	+17	false	364406.0N	1263658.0E	false	RNAV1	false	true

@@ -1,0 +1,13 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	REBIT 1N	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 본 절차는 시험용 절차로 대한민국 AIP STAR/SID/INSTAPP에 나온 표 순서로 구성되었습니다.                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	REBIT	false	false	false	false	false	false	371203.0N	1252912.7E	false	RNAV1	Hold	true
+2	TF	ALTON	false	058.4	11.8	false	+13	false	371812.6N	1254146.1E	false	RNAV1	-	true
+3	TF	SI931	false	058.5	14.4	false	+9	@210	372542.2N	1255709.0E	false	RNAV1	-	true
+4	TF	SI932	false	137.5	5.1	false	+9	@210	372156.6N	1260129.0E	false	RNAV1	-	false
+5	TF	SI933	false	115.1	5.0	false	+9	@210	371948.9N	1260708.5E	false	RNAV1	-	false
+6	TF	SI934	false	093.0	5.0	false	+9	@210	371932.9N	1261324.1E	false	RNAV1	-	false
+7	TF	SI935	false	069.1	5.8	false	@9	@210	372136.5N	1262011.1E	false	RNAV1	-	false
+8	TF	DANAN	false	326.2	13.0	false	+5	@210	373226.0N	1261104.0E	false	RNAV1	-	true

@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	ILS/LOC RWY33L	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PULUN(IAF) 및 KOTRA(IAF)에서 출발할 수 있음 -> IF가 2개
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	PULUN	false	false	false	false	+7	false	371022.2N	1264255.7E	false	RNAV1	IAF	true
+2	TF	HYEND	false	false	false	false	+3.6	false	371641.2N	1263701.0E	false	RNAV1	IF	true
+3	TF	SUMIN	false	324.8	5.2	false	+2.6	false	372055.1N	1263316.4E	-3.0	RNAV1	FAF	true
+4	TF	D1_2INLL	false	324.8	false	false	false	false	372624.4N	1262824.3E	-3.0	RNAV1	MAPt	true
+5	TF	RKSI_RWY33L_THR	true	false	false	false	false	false	372715.21N	1262739.09E	false	RNAV1	RWYTHR	true
