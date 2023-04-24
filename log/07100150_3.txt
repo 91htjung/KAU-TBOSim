@@ -1,0 +1,1 @@
+RunTime, ACID, CallSign, longitude, latitude, altitude, TAS, HDG, ROCD, thrust, mass, fuelused, lift, drag
