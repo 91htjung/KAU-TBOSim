@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC B77L__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: B77L__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Mar 02 2010                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Mar 02 2010                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 145.15 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 347.45                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    200LR            LO  310 310 84          310 310 84  84 310 310            0   0   0  B77L__ /
+CD    200LR            AV  310 310 84          310 310 84  84 310 310            0   0   0  B77L__ /
+CD    200LR            HI  310 310 84          310 310 84  84 310 310            0   0   0  B77L__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

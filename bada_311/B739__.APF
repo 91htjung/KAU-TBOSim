@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC B739__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: B739__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Mar 02 2010                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Mar 02 2010                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 044.67 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 085.13                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    900ER            LO  300 300 79          280 280 78  79 300 300            0   0   0  B739__ /
+CD    900ER            AV  300 300 79          280 280 78  79 300 300            0   0   0  B739__ /
+CD    900ER            HI  300 300 79          280 280 78  79 300 300            0   0   0  B739__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////
