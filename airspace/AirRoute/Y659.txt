@@ -1,0 +1,12 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	Y659	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	KUZ	355437N	1263641E	false	false	10	7	4	Incheon ACC	D	RNAV2	-
+2	RINBO	355352N	1265349E	101	13.9	10	7	4	Incheon ACC	D	RNAV2	-
+3	MELES	355251N	1271542E	101	17.8	10	7	4	Incheon ACC	D	RNAV2	-
+4	OPEDA	355149N	1273652E	101	17.2	10	7	4	Incheon ACC	D	RNAV2	-
+5	TGU	354835N	1283527E	101	47.7	10	7	4	Incheon ACC	D	RNAV2	-
+6	LAPAL	355413N	1290452E	084	24.6	100	6	4	Incheon ACC	D	RNAV2	-
+7	KPO	355838N	1292828E	085	19.7	100	6	4	Incheon ACC	D	RNAV2	-

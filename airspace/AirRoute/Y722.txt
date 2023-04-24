@@ -1,0 +1,20 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	Y722	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	SOT	370540N	1270154E	false	false	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)
+2	OLMEN	364413N	1265928E	193	21.5	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)	
+3	PEBRI	362311N	1270013E	186	21.0	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)
+4	ATASO	355344N	1265657E	193	29.5	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)
+5	MAKSA	353011N	1265422E	193	23.6	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)
+6	SAMUL	350736N	1265154E	193	22.7	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)
+7	KAMIT	341514N	1264618E	193	52.5	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)
+8	GUKSU	335251N	1264357E	192	22.4	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)
+9	LOSNI	333315N	1264153E	192	19.6	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)
+10	CJU	332305N	1263727E	207	10.8	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)
+11	SOSDO	330012N	1262735E	207	24.3	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Nouthbound)
+12	SAMLO	323223N	1261536E	207	29.5	100	14	10	Incheon ACC	A, D, G	RNAV5	1way(Nouthbound)
+13	NIRAT	320354N	1260329E	207	30.2	100	14	10	Incheon ACC	A, D, G	RNAV5	1way(Nouthbound)
+14	TESIM	313526N	1255128E	206	30.2	100	14	10	Incheon ACC	A, D, G	RNAV5	1way(Nouthbound)
+15	ATOTI	300013N	1251154E	206	100.9	100	14	10	Incheon ACC	A, D, G	RNAV5	1way(Nouthbound)

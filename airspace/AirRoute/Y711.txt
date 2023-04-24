@@ -1,0 +1,19 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	Y711	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	MONSI	371247N	1265015E	false	false	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Southbound)
+2	BULTI	364322N	1264930E	189	29.4	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Southbound)
+3	GONAX	362311N	1265016E	186	20.0	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Southbound)
+4	BEDES	360905N	1264844E	193	14.1	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Southbound)
+5	MANGI	353011N	1264432E	193	39.0	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Southbound)
+6	DALSU	350731N	1264206E	193	22.7	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Southbound)
+7	DOTOL	341515N	1263637E	192	52.4	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Southbound)
+8	KIDOS	335028N	1263402E	192	24.8	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Southbound)
+9	PANSI	330014N	1261225E	207	53.3	100	14	4	Incheon ACC	A, D, G	RNAV2	1way(Southbound)
+10	DOMKO	322848N	1255859E	207	33.4	100	14	10	Incheon ACC	A, D, G	RNAV5	1way(Southbound)
+11	PONIK	320021N	1254659E	207	30.1	100	14	10	Incheon ACC	A, D, G	RNAV5	1way(Southbound)
+12	KANKA	313155N	1253504E	206	30.1	100	14	10	Incheon ACC	A, D, G	RNAV5	1way(Southbound)
+13	BONSO	302840N	1250851E	206	67.0	100	14	10	Incheon ACC	A, D, G	RNAV5	1way(Southbound)
+14	ATOTI	300013N	1251154E	181	28.5	100	14	10	Incheon ACC	A, D, G	RNAV5	1way(Southbound)

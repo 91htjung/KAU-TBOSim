@@ -1,0 +1,14 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	Y644	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	AGAVO	371010N	1235953E	false	false	100	15	10	Incheon ACC	A, D, G	RNAV5	1way(Eastbound):23~41
+2	GONAV	371048N	1242453E	096	20.0	100	15	10	Incheon ACC	A, D, G	RNAV5	1way(Eastbound):23~41
+3	BODOL	371122N	1244954E	096	20.0	100	15	10	Incheon ACC	A, D, G	RNAV5	1way(Eastbound):23~41
+4	REBIT	371203N	1252913E	096	31.4	100	15	10	Incheon ACC	A, D, G	RNAV5	1way(Eastbound):23~41
+5	BELTU	371218N	1254759E	097	15.0	100	15	10	Incheon ACC	A, D, G	RNAV5	1way(Eastbound):23~41
+6	BOGAN	371241N	1262812E	097	32.1	100	8	10	Incheon ACC	A, D, G	RNAV5	1way(Eastbound):23~41
+7	MONSI	371247N	1265015E	098	17.6	100	8	10	Incheon ACC	A, D, G	RNAV5	1way(Eastbound):23~41
+8	POLEG	371249N	1265935E	098	7.5	100	8	10	Incheon ACC	A, D, G	RNAV5	1way(Eastbound):23~41
+9	EGOBA	372915N	1272246E	056	24.7	100	14	10	Incheon ACC	A, D, G	RNAV5	1way(Eastbound):23~41
