@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC DA42__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: DA42__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Jan 29 2009                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Feb 15 2011                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 001.25 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 001.78                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    42               LO   85  85 23          124 124 27  29 135 135            0   0   0  DA42__ /
+CD    42               AV   85  85 23          124 124 27  29 135 135            0   0   0  DA42__ /
+CD    42               HI   85  85 23          124 124 27  29 135 135            0   0   0  DA42__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

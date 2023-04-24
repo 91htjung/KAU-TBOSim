@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC C525__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: C525__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Apr 22 2013                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Apr 22 2013                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 003.18 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 004.85                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    CJ1+             LO  220 220 54          250 260 66  68 253 253            0   0   0  C525__ /
+CD    CJ1+             AV  220 220 54          250 260 66  68 253 253            0   0   0  C525__ /
+CD    CJ1+             HI  220 220 54          250 260 66  68 253 253            0   0   0  C525__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

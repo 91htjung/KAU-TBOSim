@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC DH8D__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: DH8D__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Jul 23 2008                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Oct 07 2011                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 017.60 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 029.25                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    Q400             LO  220 220 50          246 283 57  57 275 235            0   0   0  DH8D__ /
+CD    Q400             AV  220 220 50          246 283 57  57 275 235            0   0   0  DH8D__ /
+CD    Q400             HI  220 220 50          246 283 57  57 275 235            0   0   0  DH8D__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

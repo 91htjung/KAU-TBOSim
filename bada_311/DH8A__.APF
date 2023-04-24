@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC DH8A__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: DH8A__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: May 14 2004                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Nov 07 2008                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 010.00 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 015.65                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    DHC-8 100        LO  160 160 40          214 214 43  43 180 180            0   0   0  DH8A__ /
+CD    DHC-8 100        AV  160 160 40          214 214 43  43 180 180            0   0   0  DH8A__ /
+CD    DHC-8 100        HI  160 160 40          214 214 43  43 180 180            0   0   0  DH8A__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////
