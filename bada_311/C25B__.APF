@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC C25B__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: C25B__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Apr 18 2013                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Apr 18 2013                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 003.98 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 006.29                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    CJ3              LO  222 222 56          250 275 71  70 268 268            0   0   0  C25B__ /
+CD    CJ3              AV  222 222 56          250 275 71  70 268 268            0   0   0  C25B__ /
+CD    CJ3              HI  222 222 56          250 275 71  70 268 268            0   0   0  C25B__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

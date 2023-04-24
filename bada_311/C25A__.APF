@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC C25A__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: C25A__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Apr 22 2013                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Apr 22 2013                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 003.62 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 005.67                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    CJ2+             LO  222 222 56          250 275 71  70 268 268            0   0   0  C25A__ /
+CD    CJ2+             AV  222 222 56          250 275 71  70 268 268            0   0   0  C25A__ /
+CD    CJ2+             HI  222 222 56          250 275 71  70 268 268            0   0   0  C25A__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////
