@@ -1,0 +1,14 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	DOTOL 2T	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 18FEB2016
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	DOTOL	false	false	false	false	-14	-250	341515.4N	1263636.6E	false	RNAV1	-	true
+2	TF	PC731	false	184.9	13.0	false	false	false	340217.0N	1263515.7E	false	RNAV1	-	false
+3	TF	PC732	false	127.2	8.0	false	-9	false	335726.0N	1264255.3E	false	RNAV1	-	false
+4	TF	DANBI	false	127.3	6.0	false	@7	@220	335347.5N	1264839.5E	false	RNAV1	-	true
+5	TF	PC631	false	109.2	5.0	false	false	@220	335208.3N	1265419.7E	false	RNAV1	-	false
+6	TF	SELIN	false	128.5	5.0	false	false	@220	334901.2N	1265901.5E	false	RNAV1	-	true
+7	TF	PC632	false	147.7	5.0	false	false	@220	334447.1N	1270213.7E	false	RNAV1	BA25	false
+8	TF	PC633	false	166.9	5.0	false	false	@220	333954.3N	1270335.0E	false	RNAV1	BA25	false
+9	TF	WOODO	false	186.1	5.0	false	@7	@220	333455.5N	1270256.6E	false	RNAV1	Hold	true
+10	TF	HANUL	false	285.7	15.0	false	+4	@210	333858.6N	1264538.8E	false	RNAV1	IAF	true	

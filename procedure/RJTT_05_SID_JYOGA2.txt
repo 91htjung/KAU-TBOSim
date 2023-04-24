@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	JYOGA 2 (RWY05)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 본 절차는 시험용 절차로 대한민국 AIP STAR/SID/INSTAPP에 나온 표 순서로 구성되었습니다.                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	VA	TE5TT	false	024.4	false	false	+0.5	false	353317.4N	1395033.8E	false	RNAV1	-	false	
+2	DF	TT501	true	false	false	false	false	false	353328.7N	1395029.9E	false	RNAV1	-	true
+3	DF	TT502	false	false	false	R	false	false	353224.4N	1395720.7E	false	RNAV1	-	true
+4	TF	LOCUP	false	190.9	5.2	false	+5	false	352718.8N	1395608.5E	false	RNAV1	-	true
+5	TF	TAURA	false	227.3	12.6	false	+9	false	351846.1N	1394447.3E	false	RNAV1	-	true
+6	TF	JYOGA	false	227.2	14.7	false	+15	false	350845.7N	1393134.9E	false	RNAV1	-	true

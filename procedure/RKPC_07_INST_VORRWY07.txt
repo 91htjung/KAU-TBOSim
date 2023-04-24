@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	VOR RWY07	%%%%%%%%%%%%%%%%%%%%%% 12 MAY 2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	ANBIN	false	false	false	false	+4	false	333121.5N	1261455.3E	false	VOR/DME	IAF,Hold	true
+2	TF	D12YDM	false	false	3.6	false	+2.9	false	332410.5N	1261712.1E	false	VOR/DME	IF	true
+3	TF	D8_4YDM	false	058.4	1.9	false	+2.2	false	332607.9N	1262048.9E	false	VOR/DME	SDF	true
+4	TF	D6_3YDM	false	058.4	1.8	false	+1.8	false	332716.3N	1262255.4E	-3.0	VOR/DME	FDF	true
+5	TF	D4_5YDM	false	058.4	2.1	false	+1.2	false	332814.9N	1262443.9E	-3.0	VOR/DME	SDF	true
+6	TF	D2_4YDM	false	058.4	false	false	+0.86	false	332923.3N	1262650.6E	-3.0	VOR/DME	MAPt	true
+7	TF	RKPC_RWY07_THR	true	058.4	false	false	false	false	332959.57N	1262806.50E	-3.0	VOR/DME	RWYTHR	true

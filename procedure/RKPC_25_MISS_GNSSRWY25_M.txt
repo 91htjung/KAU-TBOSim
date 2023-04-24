@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GNSS RWY25 (Missed App)	%%%%%%%%%%%%%%% 12 MAY 2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	RKPC_RWY25_THR	true	238.5	5.3	false	+0.52	false	333053.6N	1262951.5E	-3.00	RNPAPCH	MAPt	true
+2	TF	PC403	false	238.5	15.5	false	false	false	332244.4N	1261403.0E	false	RNPAPCH	-	true
+3	TF	GIEUN	true	255.6	6.2	false	@6	false	332111.1N	1260652.2E	false	RNPAPCH	MAHF	true
+4	HM	GIEUN	true	063.2	false	L	6~11	-210	332111.1N	1260652.2E	false	RNPAPCH	leg5,min1	true

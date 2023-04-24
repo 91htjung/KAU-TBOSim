@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	ILS Y RWY07 (Missed App)	%%%%%%%%%%%%%%%%% 12 MAY 2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	D1_4CJU	false	058.4	false	false	false	false	332921.6N	1262652.7E	false	RNAV1	MAPt	true
+2	TF	D4YDM	false	false	false	false	false	false	333242.4N	1263323.4E	false	RNAV1	-	true
+3	TF	PAION	true	false	false	false	@8	false	333118.0N	1265534.0E	false	RNAV1	MAHF	true
+4	HM	PAION	true	275.0	false	R	8~9	-230	333118.0N	1265534.0E	false	RNAV1	leg5,min1	true

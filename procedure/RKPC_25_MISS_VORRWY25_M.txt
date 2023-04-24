@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	VOR RWY25 (Missed App)	%%%%%%%%%%%%%% 12 MAY 2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	D1_5YDM	false	false	false	false	+0.61	false	333127.2N	1263047.4E	false	RNPAPCH	MAPt	true
+2	TF	D15YDM	false	false	false	false	false	false	332259.4N	1261351.7E	false	RNPAPCH	-	true
+3	TF	GIEUN	true	238.5	false	false	@6	false	332111.1N	1260652.2E	false	RNPAPCH	-	true
+4	HM	GIEUN	true	238.5	false	L	6~11	-210	332111.1N	1260652.2E	false	RNPAPCH	-	true

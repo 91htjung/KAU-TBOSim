@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	SYE 2 (RWY16)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 본 절차는 시험용 절차로 대한민국 AIP STAR/SID/INSTAPP에 나온 표 순서로 구성되었습니다.                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	VA	TS5TT	false	150.0	false	false	+0.5	false	353029.5N	1394851.5E	false	RNAV1	-	false	
+2	TF	D11_8SHME	false	false	false	false	false	false	352655.0N	1400124.0E	false	RNAV1	-	true
+3	TF	D11_8EHME	false	false	false	false	+6	false	352828.0N	1395854.0E	false	RNAV1	-	true
+4	TF	D11_8NHME	false	false	false	false	false	false	353847.0N	1395902.0E	false	RNAV1	-	true
+5	TF	R116XSYE	false	false	false	false	false	false	353533.1N	1395753.6E	false	RNAV1	-	true
+6	TF	SYE	false	false	false	false	12~15	false	360039.0N	1395021.0E	false	RNAV1	-	true

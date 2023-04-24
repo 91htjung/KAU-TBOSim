@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	ILS Z RWY07	%%%%%%%%%%%%%%% 12 MAY 2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	YUMIN	false	false	false	false	+4	false	332725.7N	1261315.5E	false	RNAV1	IAF	true
+2	TF	KONDE	false	118.3	5.0	false	+2.6	false	332503.0N	1261831.0E	false	RNAV1	IF	true
+3	TF	D5_3CJU	false	058.4	false	false	+1.8	false	332717.6N	1262251.8E	-3.0	RNAV1	FAF	true
+4	TF	D2_6CJU	false	058.4	false	false	+0.91	false	332843.8N	1262539.3E	-3.0	RNAV1	SDF	true
+5	TF	D1_4CJU	false	058.4	false	false	false	false	332921.6N	1262652.7E	-3.0	RNAV1	MAPt	true
+6	TF	RKPC_RWY07_THR	true	058.4	false	false	false	false	332959.57N	1262806.50E	-3.0	RNAV1	RWYTHR	true

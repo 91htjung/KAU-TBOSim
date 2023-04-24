@@ -1,0 +1,19 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	MAKET 2P	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 12MAY2016
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	MAKET	false	false	false	false	false	false	335452.4N	1271953.0E	false	RNAV1	-	true
+2	TF	PC721	false	270.2	27.2	false	false	false	335453.3N	1264709.7E	false	RNAV1	-	true
+3	TF	PC722	false	250.0	8.3	false	+13	false	335202.9N	1263748.9E	false	RNAV1	-	true
+4	TF	KEROM	false	249.9	13.0	false	+10	false	334733.9N	1262309.8E	false	RNAV1	-	true
+5	TF	CHANY	false	218.9	5.0	false	@9	@220	334349.9N	1261924.0E	false	RNAV1	Hold	false
+6	TF	PC621	false	279.1	5.0	false	false	@220	334427.4N	1261328.9E	false	RNAV1	-	false
+7	TF	PC622	false	262.2	5.0	false	false	@220	334346.4N	1260732.6E	false	RNAV1	-	false
+8	TF	PC623	false	245.2	5.0	false	false	@220	334140.2N	1260206.2E	false	RNAV1	-	false
+9	TF	PC624	false	228.2	5.0	false	false	@220	333819.9N	1255738.2E	false	RNAV1	-	false
+10	TF	PC625	false	211.3	5.0	false	false	@220	333403.1N	1255431.8E	false	RNAV1	-	false
+11	TF	PC626	false	194.3	5.0	false	false	@220	332911.9N	1255302.9E	false	RNAV1	-	false
+12	TF	PC627	false	177.4	5.0	false	false	@220	332411.7N	1255319.1E	false	RNAV1	BA25	false
+13	TF	PC628	false	160.5	5.0	false	false	@220	331928.4N	1255518.5E	false	RNAV1	BA25	false
+14	TF	MEDON	false	143.6	5.0	false	@9	@220	331526.4N	1255850.7E	false	RNAV1	BA25	true
+15	TF	YUMIN	false	045.2	17.0	false	+4	@210	331526.4N	1255850.7E	false	RNAV1	IAF	true	

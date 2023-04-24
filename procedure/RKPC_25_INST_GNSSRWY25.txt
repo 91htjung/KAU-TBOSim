@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GNSS RWY25	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	HANUL	false	false	false	false	+4	false	333858.6N	1264538.8E	false	RNPAPCH	IAF	true
+2	TF	ESIBO	false	238.6	5.0	false	+2.9	false	333621.9N	1264032.2E	false	RNPAPCH	IF	true
+3	TF	SARHA	false	238.6	5.2	false	+1.8	false	333338.6N	1263513.1E	false	RNPAPCH	FAF	true
+4	TF	RKPC_RWY25_THR	true	238.5	5.3	false	@0.05	false	333053.6N	1262951.5E	-3.00	RNPAPCH	MAPt	true

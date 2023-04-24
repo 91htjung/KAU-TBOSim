@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	TAMNA 2W	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 12MAY2016
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	CF	PC841	true	238.5	8.0	false	false	-250	332542.7N	1261947.8E	false	RNAV1	-	true
+2	TF	PC842	false	171.2	8.2	false	false	-250	331738.3N	1262117.3E	false	RNAV1	-	true
+3	TF	PC843	false	102.3	7.3	false	false	-250	331605.1N	1262945.1E	false	RNAV1	-	true
+4	TF	CJU	false	042.7	9.5	false	+12	false	332304.6N	1263726.8E	false	RNAV1	-	true
+5	TF	PC845	false	081.5	13.5	false	+17	false	332503.2N	1265324.0E	false	RNAV1	-	true
+6	TF	TAMNA	false	081.7	22.4	false	false	false	332815.5N	1271953.0E	false	RNAV1	-	true

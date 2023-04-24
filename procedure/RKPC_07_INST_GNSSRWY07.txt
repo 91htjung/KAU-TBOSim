@@ -1,0 +1,9 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	GNSS RWY07	%%%%%%%%%%%%%%% 12 MAY 2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	YUMIN	false	false	false	false	+4	false	332725.7N	1261315.5E	false	RNPAPCH	IAF	true
+2	TF	KONDE	false	118.3	5.0	false	+2.9	false	332503.0N	1261831.0E	false	RNPAPCH	IF	true
+3	TF	TEWOO	false	058.4	4.2	false	+1.8	false	332715.3N	1262247.5E	false	RNPAPCH	FAF	true
+4	TF	PC401	false	058.4	2.2	false	+1.0	false	332824.5N	1262501.8E	false	RNPAPCH	SDF	true
+5	TF	RKPC_RWY07_THR	true	058.4	3.0	false	@0.05	false	332959.6N	1262806.5E	-3.00	RNPAPCH	MAPt	true

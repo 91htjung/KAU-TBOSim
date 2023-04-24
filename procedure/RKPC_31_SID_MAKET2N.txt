@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	MAKET 2E	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 09JUN2016
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	CF	PC861	false	305.6	4.7	false	false	false	333343.8N	1262434.1E	false	RNAV1	-	true
+2	TF	PC871	false	359.7	5.3	false	-5	false	333905.3N	1262432.0E	false	RNAV1	-	true
+3	TF	PC872	false	053.5	7.0	false	-8	false	334316.9N	1263118.7E	false	RNAV1	-	true
+4	TF	TOREN	false	053.5	9.0	false	+11	false	334836.8N	1263957.7E	false	RNAV1	-	true
+5	TF	PC873	false	089.8	26.3	false	false	false	334837.9N	1271129.2E	false	RNAV1	-	true
+6	TF	MAKET	false	048.3	9.4	false	false	false	335452.4N	1271953.0E	false	RNAV1	-	true

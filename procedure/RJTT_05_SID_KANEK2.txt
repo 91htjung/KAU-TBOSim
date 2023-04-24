@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	KANEK 2 (RWY05)	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 본 절차는 시험용 절차로 대한민국 AIP STAR/SID/INSTAPP에 나온 표 순서로 구성되었습니다.                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	VA	TE5TT	false	false	false	false	+0.5	false	353317.4N	1395033.8E	false	RNAV1	-	false	
+2	TF	PLUTO	false	false	false	R	false	false	353632.1N	1395736.8E	false	RNAV1	-	true
+3	TF	KAIJI	false	003.0	7.6	false	false	false	354409.6N	1395806.6E	false	RNAV1	-	true
+4	TF	HILLS	false	278.4	11.9	false	9~15	false	354553.0N	1394340.2E	false	RNAV1	-	true
+5	TF	LUPUS	false	278.3	13.2	false	+13	false	354745.9N	1392736.2E	false	RNAV1	-	true
+6	TF	KANEK	false	278.1	6.3	false	+17	false	354839.3N	1391953.9E	false	RNAV1	-	true

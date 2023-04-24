@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	VOR RWY25 (PAION)	%%%%%%%%%%%%%% 12 MAY 2016 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% #WP	pathdes	ID	flyover	track	dist	turnd	Alt	spd	Lat		Long		RDH	navspec	rem	Must-ps	%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1	IF	PAION	false	false	false	false	+8	false	333118.0N	1265534.0E	false	RNPAPCH	IAF	true
+2	TF	D10_8YDM	false	false	false	false	+2.9	false	333612.8N	1264022.1E	false	RNPAPCH	IF	true
+3	TF	D5_7YDM	false	false	false	false	+1.8	false	333336.4N	1263507.1E	-3.1	RNPAPCH	FAF	true
+4	TF	D1_5YDM	false	false	false	false	+0.61	false	333127.2N	1263047.4E	-3.1	RNPAPCH	MAPt	true
