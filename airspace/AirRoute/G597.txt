@@ -1,0 +1,30 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	G597	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT		LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	AGAVO	371010.00N	1235953.00E	false	false	100	15	10	Incheon ACC	A, D, G	All	1way(Westbound):FL220~FL400,OffsetPROC
+2	GONAV	371048.00N	1242453.00E	096	20.0	100	15	10	Incheon ACC	A, D, G	All	1way(Westbound):FL220~FL400,OffsetPROC
+3	DANTI	371806.00N	1243929.00E	066	13.8	100	15	10	Incheon ACC	A, D, G	All	1way(Westbound):FL220~FL400,OffsetPROC
+4	ANSIM	372323.00N	1245009.00E	066	10.0	100	15	10	Incheon ACC	A, D, G	All	1way(Westbound):FL220~FL400,OffsetPROC
+5	BINIL	372349.00N	1251359.00E	097	19.0	100	15	10	Incheon ACC	A, D, G	All	1way(Westbound):FL220~FL400
+6	NOPIK	372412.00N	1253905.00E	097	20.0	100	15	10	Incheon ACC	A, D, G	All	1way(Westbound):FL220~FL400
+7	GOGET	372442.00N	1263036.00E	097	41.0	100	8	10	Incheon ACC	A, D, G	All	1way(Westbound):FL220~FL400
+8	SEL	372449.00N	1265542.00E	098	20.0	100	8	10	Incheon ACC	A, D, G	All	1way(Westbound):FL220~FL400
+9	EGOBA	372915.00N	1272246.00E	087	22.0	100	7.5	10	Incheon ACC	A, D, G	All	-
+10	KARBU	373159.00N	1273952.00E	087	13.9	100	7.5	10	Incheon ACC	A, D, G	All	-
+11	BIKSI	374032.00N	1283504.00E	087	44.7	100	7.5	10	Incheon ACC	A, D, G	All	-
+12	KAE	374203.00N	1284514.00E	088	8.2	100	7.5	10	Incheon ACC	A, D, G	All	-
+13	PILIT	372631.00N	1291731.00E	129	30.0	100	8	10	Incheon ACC	A, D, G	All	1way(Eastbound)exp:ACCPPR
+14	AGSUS	364521.00N	1304044.00E	130	78.3	100	9	10	Incheon ACC	A, D, G	All	1way(Eastbound)exp:ACCPPR
+15	LANAT	362224.00N	1312542.00E	131	42.9	100	9	10	Incheon ACC	A, D, G	All	1way(Eastbound)exp:ACCPPR
+16	DANJU	353733.90N	1323440.85E	137	72	100	24	8	Fukuoka FIR	-	All	-
+17	XZE	352502.06N	1325332.54E	137	20	100	8	8	Fukuoka FIR	-	All	-
+18	YVE	352936.37N	1331357.10E	082	17	100	4	8	Fukuoka FIR	-	All	-
+19	DAIEI	353028.29N	1334210.40E	095	23	100	6	8	Fukuoka FIR	-	All	-
+20	TRE	353138.28N	1340953.59E	095	23	100	6	8	Fukuoka FIR	-	All	-
+21	KANNA	353011.27N	1344121.95E	101	26	100	7	8	Fukuoka FIR	-	All	-
+22	YME	352850.49N	1350813.28E	101	22	100	7	8	Fukuoka FIR	-	All	-
+23	OGAKI	351807.28N	1363736.54E	105	74	100	13	8	Fukuoka FIR	-	All	-
+24	KCC	351554.96N	1365453.73E	105	14	100	13	8	Fukuoka FIR	-	All	-
+25	TRIKE	344751.23N	1371705.45E	154	34	100	4	8	Fukuoka FIR	-	All	-

@@ -1,0 +1,17 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	G585	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT		LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	SEL	372449.00N	1265542.00E	false	false	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep
+2	KALMA	371845.00N	1270645.00E	133	10.7	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep	
+3	KAKSO	370745.00N	1272637.00E	133	19.3	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep
+4	GUKDO	370111.00N	1273823.00E	133	11.5	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep
+5	BASEM	365037.00N	1275710.00E	133	18.4	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep
+6	BIGOB	364325.00N	1280952.00E	133	12.5	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep
+7	CUN	363755.00N	1281931.00E	133	9.5	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep
+8	ELAPI	362014.00N	1285051.00E	133	30.8	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep
+9	KPO	355838.00N	1292828.00E	133	37.3	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep
+10	BULGA	355609.00N	1294924.00E	106	17.2	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep
+11	SAPRA	354926.00N	1304325.00E	106	44.4	100	8	8	Incheon ACC	A, D, G	All	1way(Westbound)exp:RKTY,RKTIdep
+12	XZE	352502.06N	1325332.54E	111	109	100	22	8	Fukuoka FIR	-	All	-

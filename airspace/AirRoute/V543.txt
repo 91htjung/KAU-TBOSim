@@ -1,0 +1,13 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	V543	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	DALSU	350731N	1264206E	false	false	100	8	10	Incheon ACC	A, D, G	All	-
+2	KWA	350734N	1264844E	097	5.4	100	8	10	Incheon ACC	A, D, G	All	-
+3	SAMUL	350736N	1265154E	097	2.6	100	8	10	Incheon ACC	A, D, G	All	-
+4	TEDAN	350744N	1271852E	097	22.1	100	8	10	Incheon ACC	A, D, G	All	-
+5	ANUBA	350746N	1273523E	098	13.5	100	8	10	Incheon ACC	A, D, G	All	-
+6	SAPDI	350737N	1282952E	098	44.7	100	8	10	Incheon ACC	A, D, G	All	-
+7	SARAM	350736N	1283147E	098	1.6	100	8	10	Incheon ACC	A, D, G	All	-
+8	PSN	350721N	1285958E	098	23.1	100	8	10	Incheon ACC	A, D, G	All	-

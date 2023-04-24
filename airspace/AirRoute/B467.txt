@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	B467	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	KAE	374203N	1284514E	false	false	100	8	10	Incheon ACC	A, D, G	All	-
+2	NOMEX	374112N	1294441E	099	47.2	100	8	10	Incheon ACC	A, D, G	All	-
+3	BUSKO	374033N	1301610E	100	25.0	100	8	10	Incheon ACC	A, D, G	All	-
+4	TENAS	373820N	1313427E	100	62.2	100	8	10	Incheon ACC	A, D, G	All	-
+5	MALSO	375440N	1314904E	044	20.0	100	20	50	Incheon ACC	A, G	All	-
+6	KANSU	383800N	1322830E	044	53.3	100	20	50	Incheon ACC	A, G	All	-

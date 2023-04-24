@@ -1,0 +1,20 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	B597	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT		LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	SUC	324521.49N	1325947.93E	false	false	100	4	8	Fukuoka FIR	-	All	-
+2	MADOG	320730.69N	1322346.46E	226	49	100	4	8	Fukuoka FIR	-	All	-
+3	HIROS	315530.20N	1321230.51E	226	15	100	4	8	Fukuoka FIR	-	All	-
+4	JACKY	313316.78N	1315147.21E	226	28	100	4	8	Fukuoka FIR	-	All	-
+5	QUEEN	311334.62N	1313336.57E	226	25	100	4	8	Fukuoka FIR	-	All	-
+6	JOKER	310658.63N	1312733.19E	226	9	100	4	8	Fukuoka FIR	-	All	-
+7	TEPPO	304536.42N	1310803.50E	226	27	100	4	8	Fukuoka FIR	-	All	-
+8	TGE	303607.76N	1305929.52E	226	12	100	4	8	Fukuoka FIR	-	All	-
+9	SEPIA	300032.33N	1303804.84E	213	40	100	4	8	Fukuoka FIR	-	All	-
+10	RURIK	291758.83N	1301252.40E	213	48	100	5	8	Fukuoka FIR	-	All	-
+11	TUMGI	284357.05N	1295300.74E	213	38	100	4	8	Fukuoka FIR	-	All	-
+12	AME	282604.98N	1294241.07E	213	20	100	3	8	Fukuoka FIR	-	All	-
+13	YUWAN	281109.84N	1292733.32E	228	20	100	4	8	Fukuoka FIR	-	All	-
+14	PINNE	274918.96N	1290526.46E	228	29	100	6	8	Fukuoka FIR	-	All	-
+15	ONC	272558.38N	1284156.27E	228	31	100	5	8	Fukuoka FIR	-	All	-

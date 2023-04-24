@@ -1,0 +1,22 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	B576	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT		LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	SEL	372449.00N	1265542.00E	false	false	100	4.5	10	Incheon ACC	A, D, G	NonRNAV	-
+2	POLEG	371249.00N	1265935.00E	174	12.4	100	4.5	10	Incheon ACC	A, D, G	NonRNAV	-
+3	SOT	370540.00N	1270154.00E	174	7.4	100	4.5	10	Incheon ACC	A, D, G	NonRNAV	-
+4	OLMEN	364413.00N	1265928.00E	193	21.5	13	7	10	Incheon ACC	A, D, G	NonRNAV	+FL140:ACC coord req
+5	ENTEL	362311.00N	1265705.00E	193	21.1	13	7	10	Incheon ACC	A, D, G	NonRNAV	+FL140:ACC coord req
+6	RINBO	355352.00N	1265349.00E	193	29.4	13	7	10	Incheon ACC	A, D, G	NonRNAV	+FL140:ACC coord req
+7	LINTA	353116.00N	1265119.00E	193	22.7	13	7	10	Incheon ACC	A, D, G	NonRNAV	+FL140:ACC coord req
+8	KWA	350734.00N	1264844.00E	193	23.8	13	7	10	Incheon ACC	A, D, G	NonRNAV	+FL140:ACC coord req
+9	IPDAS	341515.00N	1264301.00E	193	52.5	13	8	10	Incheon ACC	A, D, G	NonRNAV	+FL140:ACC coord req
+10	CJU	332305.00N	1263727.00E	192	52.3	13	9	10	Incheon ACC	A, D, G	NonRNAV	+FL140:ACC coord req
+11	SOSDO	330012.00N	1262735.00E	207	24.3	100	9	10	Incheon ACC	A, D, G	NonRNAV	-
+12	SAMLO	323223.00N	1261536.00E	207	29.5	100	8	10	Incheon ACC	A, D, G	NonRNAV	-
+13	NIRAT	320354.00N	1260329.00E	207	30.2	100	8	10	Incheon ACC	A, D, G	NonRNAV	-
+14	TESIM	313526.00N	1255128.00E	207	30.2	100	8	10	Incheon ACC	A, D, G	NonRNAV	-
+15	ATOTI	300013.00N	1251154.00E	207	100.9	100	8	10	Incheon ACC	A, D, G	NonRNAV	-
+16	BOLOD	293513.06N	1250129.64E	205	27	100	6	50	Fukuoka FIR	-	All	-
+17	SALMI	281854.00N	1240000.00E	219	93	100	6	50	Fukuoka FIR	-	All	-

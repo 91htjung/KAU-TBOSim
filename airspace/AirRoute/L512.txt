@@ -1,0 +1,12 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	L512	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT	LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	TENAS	373820N	1313427E	false	false	100	27	10	Incheon ACC	A, G	RNAV5	Westbound(30,34,36,38,40)
+2	SABET	373829N	1324019E	098	52.3	100	27	10	Incheon ACC	A, G	RNAV5	Westbound(30,34,36,38,40)
+3	ANDOL	373958N	1330000E	093	15.7	100	27	10	Incheon ACC	A, G	RNAV5	Westbound(30,34,36,38,40)
+4	KAMSA	374305N	1334402E	093	35.0	100	29	10	Tokyo ACC	-	RNAV5	-
+5	IGOBI	375407N	1371701E	093	168.7	100	29	10	Tokyo ACC	-	RNAV5	-
+6	TATAM	375550N	1380613E	095	38.9	100	29	10	Tokyo ACC	-	RNAV5	-
+7	GTC	375730N	1390654E	096	47.9	100	29	10	Tokyo ACC	-	RNAV5	-

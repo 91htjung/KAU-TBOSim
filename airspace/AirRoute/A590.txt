@@ -1,0 +1,25 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	A590	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT		LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	PASRO	481706.00N	1604030.00E	false	false	100	18	100	Fukuoka FIR	-	All	-
+2	PUGAL	445127.76N	1542500.04E	055	330	100	18	100	Fukuoka FIR	-	All	-
+3	POXED	410504.52N	1485632.61E	051	330	100	18	100	Fukuoka FIR	-	All	-
+4	PUTER	381956.57N	1453107.25E	049	229	100	18	100	Fukuoka FIR	-	All	-
+5	PEXEL	372921.07N	1443238.67E	048	69	100	18	100	Fukuoka FIR	-	All	-
+6	PABBA	370011.57N	1435946.88E	048	39	100	18	100	Fukuoka FIR	-	All	-
+7	KAGIS	354912.89N	1423348.50E	050	99	100	6	100	Fukuoka FIR	-	All	-
+8	ONASU	345253.46N	1405514.19E	060	98	100	29	8	Fukuoka FIR	-	All	-
+9	MOE	340415.75N	1393340.64E	060	83	100	20	8	Fukuoka FIR	-	All	-
+10	KARTA	331135.56N	1385820.63E	036	60	100	22	8	Fukuoka FIR	-	All	-
+11	YOSHI	331014.59N	1385726.94E	036	2	100	22	8	Fukuoka FIR	-	All	-
+12	AKUBI	325701.71N	1383928.33E	055	20	100	6	50	Fukuoka FIR	-	All	-
+13	BUBDO	312555.07N	1363913.83E	054	137	100	6	50	Fukuoka FIR	-	All	-
+14	OLDUP	300731.48N	1352032.36E	046	103	100	6	50	Fukuoka FIR	-	All	-
+15	DOVAG	283501.96N	1334850.96E	045	122	100	6	50	Fukuoka FIR	-	All	-
+16	BIXAK	275250.18N	1330815.22E	044	55	100	6	50	Fukuoka FIR	-	All	-
+17	MDE	255116.14N	1311549.64E	044	158	100	20	8	Fukuoka FIR	-	All	-
+18	AVLAS	242120.31N	1300715.37E	040	109	100	20	8	Fukuoka FIR	-	All	-
+19	TUNTO	230015.74N	1290452.76E	038	99	100	6	50	Fukuoka FIR	-	All	-
+20	GURAG	210000.00N	1272500.00E	040	152	100	6	50	Fukuoka FIR	-	All	-

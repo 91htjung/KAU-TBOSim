@@ -1,0 +1,29 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	G339	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT		LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	PSN	350721.00N	1285958.00E	false	false	100	10	8	Incheon ACC	A, D, G	All	-
+2	INVOK	344719.00N	1291923.00E	149	25.6	100	10	8	Incheon ACC	A, D, G	All	-
+3	BEETL	341544.87N	1294945.29E	149	40	100	10	8	Fukuoka FIR	-	All	-
+4	DGC	334034.35N	1302322.66E	149	45	100	10	8	Fukuoka FIR	-	All	-
+5	OGORI	331639.96N	1302544.64E	182	24	100	6	8	Fukuoka FIR	-	All	-
+6	MIZMA	331433.97N	1302556.52E	182	2	100	8	8	Fukuoka FIR	-	All	-
+7	OMUTA	330332.20N	1302701.41E	182	11	100	8	8	Fukuoka FIR	-	All	-
+8	TAIME	325147.11N	1302815.66E	182	12	100	9	8	Fukuoka FIR	-	All	-
+9	FUGEN	323919.48N	1302925.48E	182	12	100	9	8	Fukuoka FIR	-	All	-
+10	HINAG	322342.27N	1303053.71E	182	16	100	9	8	Fukuoka FIR	-	All	-
+11	SASIK	321759.30N	1303115.73E	182	6	100	8	8	Fukuoka FIR	-	All	-
+12	HKC	314150.00N	1303458.59E	182	36	100	8	8	Fukuoka FIR	-	All	-
+13	KINKO	311958.21N	1304312.03E	168	23	100	6	8	Fukuoka FIR	-	All	-
+14	TOZAK	310633.03N	1304812.92E	168	14	100	6	8	Fukuoka FIR	-	All	-
+15	KAGYA	304735.17N	1305515.40E	168	20	100	6	8	Fukuoka FIR	-	All	-
+16	TGE	303607.76N	1305929.52E	168	12	100	6	8	Fukuoka FIR	-	All	-
+17	KALGU	301223.99N	1311722.39E	153	28	100	4	8	Fukuoka FIR	-	All	-
+18	AGIKA	300013.26N	1312627.87E	153	15	100	4	8	Fukuoka FIR	-	All	-
+19	MIMOD	293522.53N	1314453.86E	153	29	100	12	8	Fukuoka FIR	-	All	-
+20	OLSAK	292239.98N	1315525.83E	150	16	100	6	100	Fukuoka FIR	-	All	-
+21	BIXAK	275250.18N	1330815.22E	150	110	100	6	100	Fukuoka FIR	-	All	-
+22	CANAI	264401.21N	1340227.33E	150	84	100	6	100	Fukuoka FIR	-	All	-
+23	SABGU	252951.17N	1345920.86E	150	90	100	6	100	Fukuoka FIR	-	All	-
+24	PAKDO	210000.00N	1374918.00E	154	312	100	6	100	Fukuoka FIR	-	All	-

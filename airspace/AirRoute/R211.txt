@@ -1,0 +1,15 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	R211	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용 (현재는 Incheon FIR만 구현)
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT		LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	AVGOK	433608.13N	1381447.47E	false	false	100	6	50	Fukuoka FIR	-	All	-
+2	NISIN	400009.66N	1374954.29E	195	217	100	6	50	Fukuoka FIR	-	All	-
+3	KADBO	391409.98N	1374448.45E	195	46	100	6	50	Fukuoka FIR	-	All	-
+4	TAVIS	385715.14N	1380315.55E	148	22	100	9	8	Fukuoka FIR	-	All	-
+5	CAYAH	384030.06N	1382120.30E	148	22	100	9	8	Fukuoka FIR	-	All	-
+6	BASIN	380715.60N	1385631.32E	148	43	100	5	8	Fukuoka FIR	-	All	-
+7	GTC	375729.86N	1390653.59E	148	13	100	5	8	Fukuoka FIR	-	All	-
+8	IXE	370855.91N	1405832.47E	126	101	100	18	8	Fukuoka FIR	-	All	-
+9	GLAXY	363059.70N	1403857.51E	210	41	100	14	8	Fukuoka FIR	-	All	-
+10	SWAMP	361914.44N	1403217.02E	210	13	100	14	8	Fukuoka FIR	-	All	-

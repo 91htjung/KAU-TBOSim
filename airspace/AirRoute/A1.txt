@@ -1,0 +1,25 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	A1	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AIP 참고, 여기서 UPLIM, LOWLIM은 해당 waypoint 이후 구간에 적용
+% (예를 들면, (1)[5.0 / 3.0] (2)[5.0 / 3.0] (3)[8.0 / 3.0] 이면, (1)-(2) 구간은 3000~5000ft, (2)-(3) 구간은 3000ft~8000ft를 뜻함
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%#WP	NAME	LAT		LONG		MAGTRK	DIST	UPLIM	LOWLIM	Lateral	ControlUnit	Class	NAVspec	Remark
+1	HCE	330651.66N	1294718.54E	false	false	100	12	8	Fukuoka FIR	-	All	-
+2	KARTA	331135.56N	1385820.63E	283	41	100	12	8	Fukuoka FIR	-	All	-
+3	KEC	332651.87N	1354740.18E	101	160	100	25	8	Fukuoka FIR	-	All	-
+4	ALBAT	332152.21N	1352629.45E	261	18	100	8	8	Fukuoka FIR	-	All	-
+5	HALON	331455.57N	1345950.00E	261	24	100	8	8	Fukuoka FIR	-	All	-
+6	JAKAL	330343.30N	1341403.39E	261	40	100	8	8	Fukuoka FIR	-	All	-
+7	GREEN	325355.23N	1333359.40E	261	35	100	8	8	Fukuoka FIR	-	All	-
+8	SUC	324521.49N	1325947.93E	261	30	100	8	8	Fukuoka FIR	-	All	-
+9	FENIX	320830.42N	1313529.33E	250	80	100	9	8	Fukuoka FIR	-	All	-
+10	JINGU	315409.81N	1310255.20E	250	31	100	9	8	Fukuoka FIR	-	All	-
+11	HKC	314150.00N	1303458.59E	250	27	100	9	8	Fukuoka FIR	-	All	-
+12	KAZAN	312306.13N	1300640.56E	238	31	100	8	8	Fukuoka FIR	-	All	-
+13	KOSHI	311718.61N	1295752.97E	238	9	100	8	8	Fukuoka FIR	-	All	-
+14	JEDAI	304628.72N	1291204.16E	238	50	100	15	8	Fukuoka FIR	-	All	-
+15	RUSAR	295154.10N	1275013.71E	238	89	100	15	8	Fukuoka FIR	-	All	-
+16	AKVAS	293513.19N	1272752.85E	234	26	100	6	50	Fukuoka FIR	-	All	-
+17	URUMA	285812.24N	1263445.48E	234	59	100	6	50	Fukuoka FIR	-	All	-
+18	SAPET	283813.49N	1260753.34E	234	31	100	6	50	Fukuoka FIR	-	All	-
+19	IGMON	273719.66N	1244313.87E	234	96	100	6	50	Fukuoka FIR	-	All	-
+20	BULAN	270530.00N	1240000.00E	234	50	100	6	50	Fukuoka FIR	-	All	-
