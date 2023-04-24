@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC TBM7__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: TBM7__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Mar 03 2011                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Jan 19 2012                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 001.89 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 002.98                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    700C             LO  130 130 37          220 205 49  64 230 230            0   0   0  TBM7__ /
+CD    700C             AV  130 130 37          220 205 49  64 230 230            0   0   0  TBM7__ /
+CD    700C             HI  130 130 37          220 205 49  64 230 230            0   0   0  TBM7__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

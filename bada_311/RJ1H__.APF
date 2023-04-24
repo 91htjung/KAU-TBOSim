@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC RJ1H__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: RJ1H__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Mar 27 2012                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Mar 27 2012                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 026.13 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 044.99                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    RJ100            LO  250 270 64          250 305 70  68 290 250            0   0   0  RJ1H__ /
+CD    RJ100            AV  250 270 64          250 305 70  68 290 250            0   0   0  RJ1H__ /
+CD    RJ100            HI  250 270 64          250 305 70  68 290 250            0   0   0  RJ1H__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

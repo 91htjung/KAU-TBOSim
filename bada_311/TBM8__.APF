@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC TBM8__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: TBM8__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Jan 19 2012                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Jan 19 2012                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 002.16 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 003.35                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    850              LO  130 130 37          230 220 53  64 230 230            0   0   0  TBM8__ /
+CD    850              AV  130 130 37          230 220 53  64 230 230            0   0   0  TBM8__ /
+CD    850              HI  130 130 37          230 220 53  64 230 230            0   0   0  TBM8__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

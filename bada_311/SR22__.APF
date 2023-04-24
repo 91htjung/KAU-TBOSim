@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC SR22__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: SR22__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Jan 31 2012                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Jan 31 2012                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 001.02 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 001.54                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    SR22             LO   98  93 20          155 150 28  38 178 178            0   0   0  SR22__ /
+CD    SR22             AV   98  93 20          155 150 28  38 178 178            0   0   0  SR22__ /
+CD    SR22             HI   98  93 20          155 150 28  38 178 178            0   0   0  SR22__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

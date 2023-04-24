@@ -1,0 +1,374 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC SYNONYM.LST CCCCCCCCCCCCCC/
+CC                                                                    /
+CC                BADA SYNONYM FILE                                   /
+CC                                                                    /
+CC                                                                    /
+CC      File_name: SYNONYM.LST                                        /
+CC                                                                    /
+CC      Creation_date: Apr 30 2002                                    /
+CC                                                                    /
+CC      Modification_date: May 27 2013                                /
+CC                                                                    /
+CC                                                                    /
+CC====== Aircraft List ===============================================/
+CC                                                                    /
+CC   A/C    NAME OR MODEL        FILE                SYNONYMS         /
+CC   CODE                                                             /
+CC                                                                    /
+ - A124__  ANTONOV AN-124-100   A124__               A124
+
+ - A140__  ANTONOV AN-140       A140__               A140
+
+ - A148__  ANTONOV AN-148-100B  A148__               A148
+
+ - A306__  AIRBUS A300B4-600    A306__               A306
+
+ - A30B__  AIRBUS A300B4-200    A30B__               A30B   IL62
+
+ - A310__  AIRBUS A310          A310__               A310   DC85   C141
+
+ - A318__  AIRBUS A318          A318__               A318
+
+ - A319__  AIRBUS A319          A319__               A319
+
+ - A320__  AIRBUS A320          A320__               A320
+
+ - A321__  AIRBUS A321          A321__               A321
+
+ - A332__  AIRBUS A330-200      A332__               A332
+
+ - A333__  AIRBUS A330-300      A333__               A333
+
+ - A342__  AIRBUS A340-200      A342__               A342
+
+ - A343__  AIRBUS A340-300      A343__               A343
+
+ - A345__  AIRBUS A340-500      A345__               A345
+
+ - A346__  AIRBUS A340-600      A346__               A346   C5  
+
+ - A388__  AIRBUS A380-800      A388__               A388
+
+ - A3ST__  AIRBUS A-300ST       A3ST__               A3ST   A400
+
+ - AN24__  ANTONOV AN-24        AN24__               AN24
+
+ - AN28__  ANTONOV AN-28        AN28__               AN28
+
+ - AN30__  ANTONOV AN-30        AN30__               AN30   AN26
+
+ - AN32__  ANTONOV AN-32B       AN32__               AN32
+
+ - AN38__  ANTONOV AN-38-100    AN38__               AN38
+
+ - AT43__  ATR 42-300           AT43__               AT43   CN35
+
+ - AT45__  ATR 42-500           AT45__               AT45   AT44   AT46
+
+ - AT72__  ATR 72-200           AT72__               AT72
+
+ - AT73__  ATR 72-210           AT73__               AT73
+ 
+ - AT75__  ATR 72-500           AT75__               AT75   AT76
+
+ - ATP___  ADVANCED TURBOPROP   ATP___               ATP    G222   A748
+                                                     C295
+
+ - B462__  BAE 146-200/RJ       B462__               B462   B461
+
+ - B463__  BAE 146-300/RJ       B463__               B463
+
+ - B703__  BOEING 707-300       B703__               B703   K35R   C135
+                                                     K35A   K35E
+
+ - B712__  BOEING 717-200       B712__               B712   DC91
+
+ - B722__  BOEING 727-200       B722__               B722   R722
+
+ - B732__  BOEING 737-200       B732__               B732
+
+ - B733__  BOEING 737-300       B733__               B733
+
+ - B734__  BOEING 737-400       B734__               B734
+
+ - B735__  BOEING 737-500       B735__               B735
+
+ - B736__  BOEING 737-600       B736__               B736
+
+ - B737__  BOEING 737-700       B737__               B737
+
+ - B738__  BOEING 737-800       B738__               B738   NIM 
+
+ - B739__  BOEING 737-900ER     B739__               B739
+
+ - B742__  BOEING 747-200       B742__               B742   B74S   T160
+
+ - B743__  BOEING 747-300       B743__               B743   B741   B74R
+
+ - B744__  BOEING 747-400       B744__               B744   B74D
+
+ - B748__  BOEING 747-8         B748__               B748
+
+ - B752__  BOEING 757-200       B752__               B752   B701   B720
+                                                     B721
+
+ - B753__  BOEING 757-300       B753__               B753
+
+ - B762__  BOEING 767-200       B762__               B762   E3CF   VC10
+                                                     E3TF
+
+ - B763__  BOEING 767-300ER     B763__               B763
+
+ - B764__  BOEING 767-400       B764__               B764   C17
+
+ - B772__  BOEING 777-200ER     B772__               B772
+
+ - B773__  BOEING 777-300       B773__               B773
+
+ - B77L__  BOEING 777-200LR     B77L__               B77L
+
+ - B77W__  BOEING 777-300ER     B77W__               B77W
+
+ - B788__  BOEING 787-8         B788__               B788
+
+ - BA11__  BAE 111              BA11__               BA11
+
+ - BE20__  BEECH SUPER KING     BE20__               BE20   JS1    B350
+                                                     BE30
+
+ - BE58__  BEECH BARON 58       BE58__               BE58   GLAS   C404
+                                                     P210   F260   IMPX
+
+ - BE99__  BEECH AIRLINER C99   BE99__               BE99
+
+ - BE9L__  BEECH KING AIR 90    BE9L__               BE9L   PC12   P46T
+                                                     BE9T   PC9    TUCA
+
+ - C130__  LOCKHEED HERCULES    C130__               C130   P3     AN12
+                                                     C30J   IL18
+
+ - C160__  TRANSALL C160        C160__               C160   L188
+
+ - C172__  CESSNA 172S SKYHAWK  C172__               C172   C170   C177
+                                                     TOBA
+
+ - C182__  CESSNA T182T SKYLANE C182__               C182   BDOG   BE33
+                                                     BE76   C82R   P32R
+
+ - C25A__  CESSNA CITATION CJ2  C25A__               C25A   PRM1   LJ24
+
+ - C25B__  CESSNA CITATION CJ3  C25B__               C25B
+
+ - C25C__  CESSNA CITATION CJ4  C25C__               C25C   BE40
+
+ - C421__  CESSNA GOLDEN EAGLE  C421__               C421   DC3    BE60
+                                                     C340
+
+ - C510__  CESSNA CITATION MUS  C510__               C510   PA47
+
+ - C525__  CESSNA CITATION CJ1  C525__               C525   S601
+
+ - C550__  CESSNA CITATION II   C550__               C550   C500   C551
+                                                     C501   SB05
+
+ - C560__  CESSNA CITATION V    C560__               C560   MU30
+
+ - C56X__  CESSNA CITATION XLS  C56X__               C56X
+
+ - C680__  CESSNA CITATION SOV  C680__               C680
+
+ - C750__  CESSNA CITATION 10   C750__               C750   GLEX   GL5T
+
+ - CL60__  CANADAIR CHALLENGER  CL60__               CL60   L29A   L29B
+
+ - CRJ1__  CANADAIR REGIONAL    CRJ1__               CRJ1
+
+ - CRJ2__  CANADIAN REGIONAL    CRJ2__               CRJ2
+
+ - CRJ9__  CANADIAN REGIONAL    CRJ9__               CRJ9   CRJ7   CRJX
+
+ - D228__  DORNIER 228          D228__               D228   C212   L410
+                                                     BE10   JS20   PC6T
+                                                     DHC6   C10T   P68T
+
+ - D328__  DORNIER 328          D328__               D328
+
+ - DA42__  DIAMOND TWIN STAR    DA42__               DA42   P28R   SR01
+                                                     BE36   DA40   TRIS
+                                                     C162   CORV   DV2 
+                                                     EPX1   ONEX
+
+ - DC10__  MCDONNELL-DOUGLAS    DC10__               DC10
+
+ - DC87__  MCDONNELL-DOUGLAS    DC87__               DC87   DC86
+
+ - DC94__  MCDONNELL-DOUGLAS    DC94__               DC94   DC92   DC93
+                                                     DC95
+
+ - DH8A__  DE HAVILLAND         DH8A__               DH8A
+
+ - DH8C__  DE HAVILLAND         DH8C__               DH8C   DH8B   CVLT
+
+ - DH8D__  DE HAVILLAND         DH8D__               DH8D
+
+ - E120__  EMBRAER EMB-120      E120__               E120   ATLA   E2  
+                                                     BN2T   C27J
+
+ - E135__  EMBRAER EMB-135      E135__               E135   J328
+
+ - E145__  EMBRAER EMB-145      E145__               E145
+
+ - E170__  EMBRAER EMB-170      E170__               E170
+
+ - E190__  EMBRAER EMB-190      E190__               E190
+
+ - E50P__  EMBRAER EMB-500      E50P__               E50P   C526
+
+ - E55P__  EMBRAER EMB-505      E55P__               E55P
+
+ - EA50__  ECLIPSE 500          EA50__               EA50
+
+ - F100__  FOKKER 100           F100__               F100
+
+ - F27___  FOKKER FRIENDSHIP    F27___               F27 
+
+ - F28___  FOKKER FOLLOWSHIP    F28___               F28    AN72
+
+ - F2TH__  FALCON 2000          F2TH__               F2TH   HA4T   CL30
+                                                     GALX   G150   G250
+                                                     G280
+
+ - F50___  FOKKER 50            F50___               F50 
+
+ - F70___  FOKKER 70            F70___               F70 
+
+ - F900__  DASSAULT FALCON 900  F900__               F900
+
+ - FA10__  DASSAULT FALCON 10   FA10__               FA10   ASTR   SBR1
+                                                     WW24
+
+ - FA20__  DASSAULT FALCON 20   FA20__               FA20
+
+ - FA50__  DASSAULT FALCON 50   FA50__               FA50
+
+ - FA7X__  FALCON 7X            FA7X__               FA7X   GLF2   GLF3
+                                                     GLF4   GLF5   GLF6
+
+ - FGTH__  MIL FIGHTER HIGH     FGTH__               FGTH
+
+ - FGTL__  MIL FIGHTER LOW      FGTL__               FGTL   B1     B52 
+
+ - FGTN__  MIL FIGHTER NORMAL   FGTN__               FGTN   MG23   SB39
+                                                     MG25   HAWK   MRF1
+                                                     SB35   MIR4   SB32
+                                                     JAGR   AMX    MG29
+                                                     F1     MIR2   SB37
+                                                     F16    F4     L159
+                                                     F15    F14    F104
+                                                     AJET   A10    F18 
+                                                     EUFI   TOR    A4  
+                                                     A6     MG21   HAR 
+                                                     F117   ETAR   A7  
+                                                     F5     RFAL   F5SA
+                                                     T50S
+
+ - H25A__  HAWKER DOMINE HS125  H25A__               H25A
+
+ - H25B__  HAWKER 800XP         H25B__               H25B   H25C
+
+ - IL76__  ILYUSHIN IL-76TD     IL76__               IL76
+
+ - IL86__  ILYUSHIN IL-86       IL86__               IL86
+
+ - IL96__  ILYUSHIN IL-96-300   IL96__               IL96
+
+ - JS32__  JETSTREAM SUPER 31   JS32__               JS32   B190   JS31
+
+ - JS41__  JETSTREAM 41         JS41__               JS41   N262
+
+ - L101__  LOCKHEED TRISTAR     L101__               L101
+
+ - LJ35__  LEARJET 35           LJ35__               LJ35   C650
+
+ - LJ45__  LEARJET 45           LJ45__               LJ45   LJ25   LJ31
+                                                     LJ55   LJ60   LJ40
+
+ - MD11__  MCDONNELL-DOUGLAS    MD11__               MD11
+
+ - MD82__  MCDONNELL-DOUGLAS    MD82__               MD82   MD88   MD87
+                                                     MD81
+
+ - MD83__  MCDONNELL-DOUGLAS    MD83__               MD83   MD90
+
+ - MU2___  MITSUBISHI MU-2      MU2___               MU2    AEST
+
+ - P180__  PIAGGIO P180 AVANTI  P180__               P180   PAY4
+
+ - P28A__  PIPER PA-28-140      P28A__               P28A   HELI   C77R
+                                                     AA5    AFOX   ALSL
+                                                     APM4   BMAN   CA41
+                                                     EV97   FA04   HRNT
+                                                     M2     NNJA   SD4 
+                                                     SNTA   SORA   SW18
+                                                     T10    WSP
+
+ - P28T__  PIPER PA-28RT-201T   P28T__               P28T
+
+ - PA27__  PIPER PA23 AZTEC     PA27__               PA27   PA23   C208
+                                                     P68    C337   DR30
+                                                     SLK3   TB30
+
+ - PA31__  PIPER CHIEFTAIN      PA31__               PA31   C303   C414
+                                                     KAT3
+
+ - PA34__  PIPER PA-34-220T     PA34__               PA34   C310   PA18
+                                                     BN2P   C402   BE55
+                                                     BE65   GRIZ   PRXT
+
+ - PA44__  PIPER PA-44-180      PA44__               PA44   PA32   DR30
+                                                     DR40
+
+ - PA46__  PIPER PA-46-350P     PA46__               PA46
+
+ - PAY2__  PIPER CHEYENNE II    PAY2__               PAY2   PAY1   E121
+                                                     KEST
+
+ - PAY3__  PIPER CHEYENNE III   PAY3__               PAY3   SW3    C441
+                                                     AC90   AC95   F406
+
+ - RJ1H__  BAE RJ-100 AVROLINER RJ1H__               RJ1H
+
+ - RJ85__  BAE RJ-85 AVROLINER  RJ85__               RJ85   RJ70
+
+ - SB20__  SAAB 2000            SB20__               SB20
+
+ - SF34__  SAAB-SCANIA SF 340   SF34__               SF34
+
+ - SH36__  SHORTS SH3-360       SH36__               SH36   SH33   CL2T
+
+ - SR22__  CIRRUS SR22          SR22__               SR22   AC11   C206
+                                                     C210   C72R   CE43
+                                                     SR20   G120   GA7 
+                                                     P28B
+ 
+ - SW4___  SWEARINGEN MERLIN IV SW4___               SW4    SW2    E110
+
+ - T134__  TUPOLEV TU134        T134__               T134   B731
+
+ - T154__  TUPOLEV TU154        T154__               T154
+
+ - T204__  TUPOLEV TU-204-300   T204__               T204
+
+ - TBM7__  SOCATA TBM-700       TBM7__               TBM7   G12T   TEX2
+
+ - TBM8__  SOCATA TBM-850       TBM8__               TBM8   C425   LNP4
+
+ - TRIN__  SOCATA TRINIDAD      TRIN__               TRIN   M20T   SLK5
+                                                     M20P   BE95   GLST
+                                                     PA30   COL4   F1FV
+                                                     HR10   NM5    P32T
+                                                     SHRK
+
+ - YK40__  YAKOVLEV YAK-40      YK40__               YK40
+
+ - YK42__  YAKOVLEV YAK-42      YK42__               YK42

@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC RJ85__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: RJ85__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: May 22 2003                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Mar 27 2012                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 025.06 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 043.99                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    RJ85             LO  250 280 66          250 300 70  68 290 250            0   0   0  RJ85__ /
+CD    RJ85             AV  250 280 66          250 300 70  68 290 250            0   0   0  RJ85__ /
+CD    RJ85             HI  250 280 66          250 300 70  68 290 250            0   0   0  RJ85__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////
