@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC PA44__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: PA44__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: May 02 2013                                                                 /
+CC                                                                                                 /
+CC      Modification_date: May 02 2013                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 001.19 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 001.72                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    180              LO   88  88 17          135 135 27  33 165 165            0   0   0  PA44__ /
+CD    180              AV   88  88 17          135 135 27  33 165 165            0   0   0  PA44__ /
+CD    180              HI   88  88 17          135 135 27  33 165 165            0   0   0  PA44__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC PA27__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: PA27__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Apr 30 2002                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Mar 31 2011                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= --.-- to --.--  /  AV= --.-- to --.--  /  HI= --.-- to --.--                              /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    AZTEC   IO540    LO  120 120 37          140 140 37  37 120 120            0   0   0  PA27__ /
+CD    AZTEC   IO540    AV  120 120 37          140 140 37  37 120 120            0   0   0  PA27__ /
+CD    AZTEC   IO540    HI  120 120 37          140 140 37  37 120 120            0   0   0  PA27__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC//////////////////////////////////  THE END   ////////////////////////////////////////////////////

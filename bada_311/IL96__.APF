@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC IL96__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: IL96__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Apr 29 2013                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Apr 29 2013                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 120.40 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 250.00                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    300              LO  302 302 78          310 310 80  80 302 302            0   0   0  IL96__ /
+CD    300              AV  302 302 78          310 310 80  80 302 302            0   0   0  IL96__ /
+CD    300              HI  302 302 78          310 310 80  80 302 302            0   0   0  IL96__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

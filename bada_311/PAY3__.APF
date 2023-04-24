@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC PAY3__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: PAY3__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Apr 30 2002                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Mar 05 2009                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= --.-- to --.--  /  AV= --.-- to --.--  /  HI= --.-- to --.--                              /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    CHEYENN PWPT6A4  LO  160 150 46          240 220 46  46 220 240            0   0   0  PAY3__ /
+CD    CHEYENN PWPT6A4  AV  160 150 46          240 220 46  46 220 240            0   0   0  PAY3__ /
+CD    CHEYENN PWPT6A4  HI  160 150 46          240 220 46  46 220 240            0   0   0  PAY3__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC//////////////////////////////////  THE END   ////////////////////////////////////////////////////

@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC LJ45__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: LJ45__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: May 22 2003                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Mar 05 2009                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 006.30 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 009.30                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    Bomb45           LO  260 260 72          300 300 76  76 310 310            0   0   0  LJ45__ /
+CD    Bomb45           AV  260 260 72          300 300 76  76 310 310            0   0   0  LJ45__ /
+CD    Bomb45           HI  260 260 72          300 300 76  76 310 310            0   0   0  LJ45__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

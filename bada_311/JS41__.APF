@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC JS41__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: JS41__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Apr 30 2002                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Jan 26 2009                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 006.35 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 010.43                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    JS41             LO  170 170 35          200 200 42  39 190 190            0   0   0  JS41__ /
+CD    JS41             AV  170 170 35          200 200 42  39 190 190            0   0   0  JS41__ /
+CD    JS41             HI  170 170 35          200 200 42  39 190 190            0   0   0  JS41__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

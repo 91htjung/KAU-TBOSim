@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC IL76__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: IL76__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Apr 25 2013                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Apr 26 2013                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 089.50 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 190.00                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    76TD             LO  270 270 70          270 270 70  68 260 230            0   0   0  IL76__ /
+CD    76TD             AV  270 270 70          270 270 70  68 260 230            0   0   0  IL76__ /
+CD    76TD             HI  270 270 70          270 270 70  68 260 230            0   0   0  IL76__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

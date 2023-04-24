@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC PA46__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: PA46__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: May 06 2013                                                                 /
+CC                                                                                                 /
+CC      Modification_date: May 06 2013                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 001.43 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 001.96                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    350P             LO  125 125 31          155 145 33  41 165 165            0   0   0  PA46__ /
+CD    350P             AV  125 125 31          155 145 33  41 165 165            0   0   0  PA46__ /
+CD    350P             HI  125 125 31          155 145 33  41 165 165            0   0   0  PA46__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC MD83__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: MD83__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Oct 23 2008                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Mar 05 2009                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 036.15 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 072.57                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    77               LO  250 310 76          250 290 76  76 290 250            0   0   0  MD83__ /
+CD    77               AV  250 310 76          250 290 76  76 290 250            0   0   0  MD83__ /
+CD    77               HI  250 310 76          250 290 76  76 290 250            0   0   0  MD83__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

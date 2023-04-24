@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC MD82__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: MD82__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Oct 16 2008                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Mar 05 2009                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 035.36 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 067.81                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    82               LO  250 310 76          250 290 76  76 290 250            0   0   0  MD82__ /
+CD    82               AV  250 310 76          250 290 76  76 290 250            0   0   0  MD82__ /
+CD    82               HI  250 310 76          250 290 76  76 290 250            0   0   0  MD82__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////

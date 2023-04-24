@@ -1,0 +1,25 @@
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC H25A__.APF CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC/
+CC                                                                                                 /
+CC                 AIRLINES PROCEDURES FILE                                                        /
+CC                                                                                                 /
+CC      File_name: H25A__.APF                                                                      /
+CC                                                                                                 /
+CC      Creation_date: Nov 09 2008                                                                 /
+CC                                                                                                 /
+CC      Modification_date: Nov 09 2008                                                             /
+CC                                                                                                 /
+CC                                                                                                 /
+CC                                                                                                 /
+CC   LO= 006.21 to ---.--  /  AV= ---.-- to ---.--  /  HI= ---.-- to 009.84                        /
+CC                                                                                                 /
+CC=================================================================================================/
+CC  COM CO    Company name ------climb-------  --cruise--  -----descent------  --approach-  model- /
+CC                    mass  lo  hi              lo  hi         hi  lo            (unused)          /
+CC    version engines  ma  cas cas mc xxxx xx  cas cas mc  mc cas cas xxxx xx  xxx xxx xxx  opf___ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CD  *** **    Default Company                                                                      /
+CD    125-3B           LO  250 250 63          270 270 75  67 275 275            0   0   0  H25A__ /
+CD    125-3B           AV  250 250 63          270 270 75  67 275 275            0   0   0  H25A__ /
+CD    125-3B           HI  250 250 63          270 270 75  67 275 275            0   0   0  H25A__ /
+CC===:=======:=======::==::===:===:==:====:==::===:===:==::==:===:===:====:==::===:===:===::======:/
+CC/////////////////////////////////////////////THE END/////////////////////////////////////////////
